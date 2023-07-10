@@ -58,6 +58,8 @@
 ||liftoff.io^
 ||liftoff-creatives.io^
 # M
+||metrics.icloud.com^
+||mixpanel.com^
 ||mobilefuse.com^
 ||myphonesunlimited.com^
 # N
@@ -77,6 +79,7 @@
 ||shareasale.com^
 ||skimresources.com^
 ||smile.io^
+||split.io^
 # T
 ||tiktok.com^
 ||tinypass.com^
