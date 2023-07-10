@@ -43,6 +43,7 @@
 # G
 ||google-analytics.com^
 ||googleadservices.com^
+||gstatic.com^
 # H
 ||hs-analytics.net^
 ||hs-scripts.com^
@@ -77,6 +78,7 @@
 ||sendgrid.net^
 ||sentry.io^
 ||shareasale.com^
+||singular.net^
 ||skimresources.com^
 ||smile.io^
 ||split.io^
