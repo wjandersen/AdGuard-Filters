@@ -48,7 +48,6 @@
 # G
 ||google-analytics.com^
 ||googleadservices.com^
-||gstatic.com^
 # H
 ||hs-analytics.net^
 ||hs-scripts.com^
