@@ -43,6 +43,7 @@
 ||facebook.com^
 ||facebook.net^
 ||feedproxy.ghs.google.com^
+||fing.com^
 ||flow.logitech.io^
 ||flurry.com^
 # G
@@ -69,6 +70,7 @@
 ||metrics.icloud.com^
 ||mixpanel.com^
 ||mobilefuse.com^
+||modulate.ai^
 ||myphonesunlimited.com^
 # N
 # O
@@ -77,6 +79,7 @@
 ||optimizely.com^
 # P
 ||piano.io^
+||phicdn.net^
 ||pki-goog.l.google.com^
 ||pndsn.com^
 # Q
@@ -84,6 +87,7 @@
 # S
 ||sc-static.net^
 ||sendgrid.net^
+||sentry.dev^
 ||sentry.io^
 ||settings-win.data.microsoft.com^
 ||shareasale.com^
@@ -92,6 +96,7 @@
 ||smile.io^
 ||split.io^
 # T
+||amcs-tachyon.com^
 ||tiktok.com^
 ||tinypass.com^
 # U
