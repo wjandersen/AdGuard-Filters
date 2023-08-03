@@ -13,6 +13,7 @@
 # IOT Devices
 @@||loveboxlove.com^
 
+
 ## Software
 # Bitwarden
 @@||bitwarden.com^
@@ -36,3 +37,17 @@
 @@||github.com^
 
 
+## CDN 
+@@||akamaiedge.net^
+@@||fastly.net^
+
+
+## Google
+
+
+## Facebook
+
+
+## Amazon
+@@||api.amazonalexa.com^
+@@||web.diagnostic.networking.aws.dev^

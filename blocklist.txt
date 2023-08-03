@@ -32,6 +32,7 @@
 # D
 ||data.flurry.com^
 ||demdex.net^
+||device-metrics-us-2.amazon.com^
 ||doubleclick.net^
 ||dwin1.com^
 # E
