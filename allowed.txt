@@ -118,8 +118,12 @@
 @@configsvc.cs.roku.com^
 
 
-# SpeetTest
-@@||napi.speedtest.net&
+# SpeedTest
+@@||napi.speedtest.net^
+
+
+# Spotify
+@@||ap.spotify.com^
 
 
 # Time Management
