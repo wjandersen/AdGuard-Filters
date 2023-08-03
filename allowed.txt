@@ -2,17 +2,21 @@
 # When using an Allowed List and a Blocked List together you see what is new traffic on the network.
 
 
-# Amazon Alexa
+# Amazon Alexa and IOT
 @@||api.amazonalexa.com^
 @@||mmechocaptiveportal.com^
 @@||avs-alexa-14-na.amazon.com^
+@@||unagi-na.amazon.com^
+@@||msh.amazon.com^
+@@||api.amazon.com^
+@@||djuibnlmuebqz.cloudfront.net^
+@@||arcus-uswest.amazon.com^
 
 
 # Amazon Web Services
 @@||web.diagnostic.networking.aws.dev^
 @@||lbapigateway01-907695634.eu-central-1.elb.amazonaws.com^
-@@||msh.amazon.com^
-@@||api.amazon.com^
+@@||a2ds1q2tpdj48u.us-east-1.prod.service.minerva.devices.a2z.com^
 
 
 # Apple
@@ -36,11 +40,22 @@
 @@||stocks-data-service.lb-apple.com.akadns.net^
 @@||mask.icloud.com^
 @@||time.g.aaplimg.com^
+@@||gspe35-ssl.ls.apple.com^
+@@||kt-prod.v.aaplimg.com^
+@@||kt-prod.ess.apple.com^
+@@||weather-data.apple.com^
+@@||guzzoni-apple-com.v.aaplimg.com^
+@@||guzzoni.apple.com^
+@@||safebrowsing-proxy.g.aaplimg.com^
+@@||proxy.safebrowsing.apple^
+@@||token.safebrowsing.apple^
 
 
 # Avira Antivirus
 @@||dispatch.avira-update.com^
 @@||api.my.avira.com^
+@@||prod-auth.eu1.apc.avira.com^
+@@||prod-query.eu1.apc.avira.com^
 
 
 # Banking
@@ -78,6 +93,19 @@
 # Facebook
 @@||edge-mqtt.facebook.com^
 @@||graph.facebook.com^
+@@||mqtt-mini.facebook.com^
+
+
+# Facebook Oculus
+@@||graph.oculus.com^
+@@||www.oculus.com^
+@@||meta.graph.meta.com^
+@@||graph.facebook-hardware.com^
+@@||gateway.facebook.com^
+@@||ns.photonengine.io^
+@@||api.gameanalytics.com^
+@@||global.gunraidersapi.com^
+
 
 # GitHub
 @@||github.com^
@@ -86,6 +114,8 @@
 
 # Google
 @@www.google.com^
+@@||safebrowsing.googleapis.com^
+@@connectivitycheck.gstatic.com^
 
 
 # Little Snitch
@@ -121,10 +151,6 @@
 
 # Nintendo Switch
 @@||nintendo.net^
-
-
-# Oculus
-@@||graph.oculus.com^
 
 
 # Proton Services
