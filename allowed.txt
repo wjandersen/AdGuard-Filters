@@ -1,8 +1,13 @@
 
 ## Devices
-# Wyze Devices
+# Wyze Cameras and Devices
 @@/kinesisvideo.*/^
 @@||wyzecam.com^
+@@||kinesisvideo.us-west-2.amazonaws.com^
+
+# Blink Cameras
+@@/blink.*/^
+@@||blink-621220870704-media-us-west-2.s3.us-west-2.amazonaws.com^
 
 # Nintendo Switch
 @@||nintendo.net^
@@ -10,7 +15,7 @@
 # Oculus
 @@||graph.oculus.com^
 
-# IOT Devices
+# Lovebox
 @@||loveboxlove.com^
 
 
@@ -35,6 +40,7 @@
 
 # GitHub
 @@||github.com^
+@@||github.io^
 
 
 ## CDN 
@@ -43,7 +49,7 @@
 
 
 ## Google
-
+@@www.google.com^
 
 ## Facebook
 
