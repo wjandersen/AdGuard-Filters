@@ -29,6 +29,9 @@
 @@||amp-api.sandbox.apps-apple.com.akadns.net^
 @@||amp-api.sandbox.itunes-apple.com.akadns.net^
 @@||sandbox.itunes.apple.com^
+@@||p32-contacts.icloud.com^
+@@||p54-contacts.icloud.com^
+
 
 
 # Avira Antivirus
