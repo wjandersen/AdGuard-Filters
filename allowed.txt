@@ -141,6 +141,7 @@
 @@||connectivitycheck.gstatic.com^
 @@||www.googleapis.com^
 @@||play.googleapis.com^
+@@||instantmessaging-pa.googleapis.com^
 
 
 # Little Snitch
@@ -158,6 +159,7 @@
 @@||cloudapp.azure.com^
 @@||azurewebsites.net^
 @@||self.events.data.microsoft.com^
+@@||in.appcenter.ms^
 
 
 # Mixpanel
