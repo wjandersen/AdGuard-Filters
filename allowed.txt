@@ -11,6 +11,7 @@
 @@||web.diagnostic.networking.aws.dev^
 @@||lbapigateway01-907695634.eu-central-1.elb.amazonaws.com^
 @@||msh.amazon.com^
+@@||api.amazon.com^
 
 
 # Apple

@@ -67,6 +67,7 @@
 # L
 ||liftoff.io^
 ||liftoff-creatives.io^
+||logs.roku.com^
 # M
 ||metrics.icloud.com^
 ||mixpanel.com^
