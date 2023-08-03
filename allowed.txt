@@ -23,6 +23,11 @@
 # Netflix
 @@||push.prod.netflix.com^
 @@||nrdp.prod.ftl.netflix.com^
+@@||preapp.prod.partner.netflix.net^
+@@||nrdp51-appboot.netflix.com^
+@@||cdn-0.nflximg.com^
+@@||api-global.netflix.com^
+@@||push.prod.netflix.com^
 
 # Apple
 @@||bag.itunes.apple.com^
