@@ -60,6 +60,7 @@
 ||iadsdk.apple.com^
 ||incoming.telemetry.mozilla.org^
 ||iterable.com^
+||ipshu.com^
 # J
 ||jrustonapps.com^
 ||jrustonapps.net^
