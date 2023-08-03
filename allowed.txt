@@ -43,6 +43,7 @@
 @@||bag.itunes.apple.com^
 @@||get-bx.g.aaplimg.com^
 @@||gsp-ssl.ls-apple.com.akadns.net^
+@@||ocsp2.g.aaplimg.com^
 
 
 # GitHub
@@ -71,3 +72,7 @@
 
 # Proton Services
 @@||proton.me^
+
+
+# Little Snitch
+@@||obdev.at^
