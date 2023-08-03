@@ -157,6 +157,9 @@
 @@||sync-1-us-west1-g.sync.services.mozilla.com^
 @@||token.services.mozilla.com^
 @@||api.accounts.firefox.com^
+@@||detectportal.firefox.com^
+@@||aus5.mozilla.org^
+@@||ciscobinary.openh264.org^
 
 
 # Netflix
