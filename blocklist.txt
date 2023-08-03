@@ -40,8 +40,6 @@
 ||ezoic.net^
 ||ezoicstatus.com^
 # F
-||facebook.com^
-||facebook.net^
 ||feedproxy.ghs.google.com^
 ||fing.com^
 ||flow.logitech.io^
