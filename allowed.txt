@@ -43,6 +43,13 @@
 @@||api.my.avira.com^
 
 
+# Banking
+@@||chase.com^
+@@||capitalone.com^
+@@||bofa.com^
+@@||wellsfargo.com^
+
+
 # Battle Net
 @@||telemetry-in.battle.net^
 
