@@ -1,30 +1,33 @@
-
-## Devices
 # Wyze Cameras and Devices
 @@/kinesisvideo.*/^
 @@||wyzecam.com^
 @@||kinesisvideo.us-west-2.amazonaws.com^
 
+
 # Blink Cameras
 @@/blink.*/^
 @@||blink-621220870704-media-us-west-2.s3.us-west-2.amazonaws.com^
 
+
 # Nintendo Switch
 @@||nintendo.net^
 
+
 # Oculus
 @@||graph.oculus.com^
+
 
 # Lovebox
 @@||loveboxlove.com^
 
 
-## Software
 # Bitwarden
 @@||bitwarden.com^
 
+
 # Avira Antivirus
 @@||dispatch.avira-update.com^
+
 
 # Netflix
 @@||push.prod.netflix.com^
@@ -35,27 +38,36 @@
 @@||api-global.netflix.com^
 @@||push.prod.netflix.com^
 
+
 # Apple
 @@||bag.itunes.apple.com^
+@@||get-bx.g.aaplimg.com^
+@@||gsp-ssl.ls-apple.com.akadns.net^
+
 
 # GitHub
 @@||github.com^
 @@||github.io^
 
 
-## CDN 
+# CDN 
 @@||akamaiedge.net^
 @@||fastly.net^
 @@||akamai.net^
 
 
-## Google
+# Google
 @@www.google.com^
 
-## Facebook
+
+# Facebook
 
 
-## Amazon
+# Amazon
 @@||api.amazonalexa.com^
 @@||mmechocaptiveportal.com^
 @@||web.diagnostic.networking.aws.dev^
+
+
+# Proton Services
+@@||proton.me^
