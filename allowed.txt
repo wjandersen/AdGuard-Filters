@@ -68,11 +68,14 @@
 # Facebook
 
 
-# Amazon
+# Amazon Alexa
 @@||api.amazonalexa.com^
 @@||mmechocaptiveportal.com^
-@@||web.diagnostic.networking.aws.dev^
 
+
+# Amazon Web Services
+@@||web.diagnostic.networking.aws.dev^
+@@||lbapigateway01-907695634.eu-central-1.elb.amazonaws.com^
 
 # Proton Services
 @@||proton.me^

@@ -49,6 +49,7 @@
 # G
 ||google-analytics.com^
 ||googleadservices.com^
+||googlesyndication.com^
 # H
 ||hs-analytics.net^
 ||hs-scripts.com^
