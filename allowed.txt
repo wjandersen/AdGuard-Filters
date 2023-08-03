@@ -22,34 +22,28 @@
 
 # Apple
 @@||bag.itunes.apple.com^
-@@||get-bx.g.aaplimg.com^
-@@||gsp-ssl.ls-apple.com.akadns.net^
-@@||ocsp2-lb.apple.com.akadns.net^
-@@||ocsp2.g.aaplimg.com^
+@@||aaplimg.com^
+@@||ls-apple.com.akadns.net^
+@@||apple.com.akadns.net^
 @@||apple-dns.net^
-@@||gsp-ssl.ls.apple.com^
-@@||iphone-ld.origin-apple.com.akadns.net^
-@@||amp-api.sandbox.apps-apple.com.akadns.net^
-@@||amp-api.sandbox.itunes-apple.com.akadns.net^
-@@||sandbox.itunes.apple.com^
+@@||ls.apple.com^
+@@||origin-apple.com.akadns.net^
+@@||apps-apple.com.akadns.net^
+@@||itunes-apple.com.akadns.net^
+@@||itunes.apple.com^
 @@||p32-contacts.icloud.com^
 @@||p54-contacts.icloud.com^
 @@||time.apple.com^
 @@||iphone-ld.apple.com^
-@@||stocks-data-service.lb-apple.com.akadns.net^
+@@||lb-apple.com.akadns.net^
 @@||mask.icloud.com^
-@@||time.g.aaplimg.com^
-@@||gspe35-ssl.ls.apple.com^
-@@||kt-prod.v.aaplimg.com^
-@@||kt-prod.ess.apple.com^
+@@||ess.apple.com^
 @@||weather-data.apple.com^
-@@||guzzoni-apple-com.v.aaplimg.com^
 @@||guzzoni.apple.com^
-@@||safebrowsing-proxy.g.aaplimg.com^
-@@||proxy.safebrowsing.apple^
-@@||token.safebrowsing.apple^
+@@||safebrowsing.apple^
 @@||gateway.icloud.com^
 @@||icloud-content.com^
+@@||smoot.apple.com^
 
 
 # Avira Antivirus
