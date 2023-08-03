@@ -29,6 +29,7 @@
 ||chimpstatic.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
+||content-signature-2.cdn.mozilla.net^
 # D
 ||data.flurry.com^
 ||demdex.net^

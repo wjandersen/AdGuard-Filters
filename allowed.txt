@@ -10,6 +10,7 @@
 # Amazon Web Services
 @@||web.diagnostic.networking.aws.dev^
 @@||lbapigateway01-907695634.eu-central-1.elb.amazonaws.com^
+@@||msh.amazon.com^
 
 
 # Apple
@@ -20,6 +21,7 @@
 @@||ocsp2.g.aaplimg.com^
 @@||contacts.fe.apple-dns.net^
 @@||mask.apple-dns.net^
+@@||gateway.fe.apple-dns.net^
 
 
 # Avira Antivirus
@@ -43,7 +45,7 @@
 
 
 # Facebook
-
+@@||edge-mqtt.facebook.com^
 
 # GitHub
 @@||github.com^
@@ -65,10 +67,12 @@
 # Microsoft
 @@||office.com^
 @@||office365.com^
+@@||array504.prod.do.dsp.mp.microsoft.com^
 
 
 # Mozilla
 @@||firefox.settings.services.mozilla.com^
+@@||push.services.mozilla.com^
 
 
 # Netflix
@@ -96,6 +100,10 @@
 
 # Roku
 @@display.ravm.tv^
+
+
+# Time Management
+@@||time-a.nist.gov^
 
 
 # Wyze Cameras and Devices
