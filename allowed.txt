@@ -1,11 +1,21 @@
-## Security
 
-# Bitwarden
-@@||bitwarden.com^
+## Devices
 
 # Wyze Cameras
 @@||kinesisvideo^
 @@||wyzecam.com^
 
+# Game Console
+@@||nintendo.net^
+
 # IOT Devices
 @@||loveboxlove.com^
+
+
+## Software
+
+# Bitwarden
+@@||bitwarden.com^
+
+# Avira Antivirus
+@@||dispatch.avira-update.com^
