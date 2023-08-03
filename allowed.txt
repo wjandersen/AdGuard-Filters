@@ -5,6 +5,7 @@
 # Amazon Alexa
 @@||api.amazonalexa.com^
 @@||mmechocaptiveportal.com^
+@@||avs-alexa-14-na.amazon.com^
 
 
 # Amazon Web Services
@@ -42,6 +43,7 @@
 # Blink Cameras
 @@/blink.*/^
 @@||blink-621220870704-media-us-west-2.s3.us-west-2.amazonaws.com^
+@@||immedia-semi.com^
 
 
 # CDN 
