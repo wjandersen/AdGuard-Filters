@@ -1,8 +1,12 @@
+# This list is noting that we are 100% ok with this traffic but is more about identifing it.
+# When using an Allowed List and a Blocked List together you see what is new traffic on the network.
+
 # Wyze Cameras and Devices
 @@/kinesisvideo.*/^
 @@||wyzecam.com^
 @@||kinesisvideo.us-west-2.amazonaws.com^
 @@||c1ybkrkbr1j10x.credentials.iot.us-west-2.amazonaws.com^
+@@||rest.cache.cell-2-us-west-2-1.prod.a.momentohq.com^
 
 
 # Blink Cameras
@@ -39,6 +43,7 @@
 @@||cdn-0.nflximg.com^
 @@||api-global.netflix.com^
 @@||push.prod.netflix.com^
+@@||nrdp.prod.cloud.netflix.com^
 
 
 # Apple
@@ -48,6 +53,7 @@
 @@||ocsp2-lb.apple.com.akadns.net^
 @@||ocsp2.g.aaplimg.com^
 @@||contacts.fe.apple-dns.net^
+@@||mask.apple-dns.net^
 
 
 # GitHub
@@ -91,3 +97,7 @@
 # Microsoft
 @@||office.com^
 @@||office365.com^
+
+
+# Mozilla
+@@||firefox.settings.services.mozilla.com^
