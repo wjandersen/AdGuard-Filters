@@ -31,8 +31,13 @@
 @@||apps-apple.com.akadns.net^
 @@||itunes-apple.com.akadns.net^
 @@||itunes.apple.com^
+@@||p26-content.icloud.com^
 @@||p32-contacts.icloud.com^
+@@||p40-content.icloud.com^
+@@||p50-content.icloud.com^
+@@||p53-contacts.icloud.com^
 @@||p54-contacts.icloud.com^
+@@||p62-content.icloud.com^
 @@||time.apple.com^
 @@||iphone-ld.apple.com^
 @@||lb-apple.com.akadns.net^
@@ -44,7 +49,13 @@
 @@||gateway.icloud.com^
 @@||icloud-content.com^
 @@||smoot.apple.com^
+@@||init-p01md.apple.com^
+@@||ce.apple-dns.net^
 
+
+# Asus
+@@||nw-dlcdnet.asus.com^
+@@www.asusrouter.com^
 
 # Avira Antivirus
 @@||avira-update.com^
@@ -64,6 +75,7 @@
 
 # Bitwarden
 @@||bitwarden.com^
+@@||bitwarden.net^
 
 
 # Blink Cameras
@@ -130,6 +142,9 @@
 @@||office.com^
 @@||office365.com^
 @@||prod.do.dsp.mp.microsoft.com^
+@@||cloudapp.azure.com^
+@@||azurewebsites.net^
+@@||self.events.data.microsoft.com^
 
 
 # Mozilla
@@ -189,6 +204,7 @@
 @@||c1ybkrkbr1j10x.credentials.iot.us-west-2.amazonaws.com^
 @@||rest.cache.cell-2-us-west-2-1.prod.a.momentohq.com^
 @@||wyze-device-alarm-file-face.s3.us-west-2.amazonaws.com^
+@@||wyze-device-log.s3.us-west-2.amazonaws.com^
 
 
 ############
