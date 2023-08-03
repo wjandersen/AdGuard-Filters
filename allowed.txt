@@ -11,14 +11,17 @@
 @@||api.amazon.com^
 @@||cloudfront.net^
 @@||arcus-uswest.amazon.com^
+@@||device-metrics-us.amazon.com^
 
 
 # Amazon Web Services
 @@||web.diagnostic.networking.aws.dev^
-@@||lbapigateway01-907695634.eu-central-1.elb.amazonaws.com^
-@@||a2ds1q2tpdj48u.us-east-1.prod.service.minerva.devices.a2z.com^
-@@||dualstack.prod-query-alb-1598358721.us-west-2.elb.amazonaws.com^
-@@||nodestore-kiros-prod-lb-132549143.us-east-1.elb.amazonaws.com^
+@@||elb.amazonaws.com^
+@@||minerva.devices.a2z.com^
+
+
+# App-Measurement
+@@||app-measurement.com^
 
 
 # Apple
@@ -55,6 +58,9 @@
 @@||lcdn-locator.apple.com^
 @@||lcdn-locator-usuqo.apple.com.akadns.net^
 @@||ocsp2.apple.com^
+@@||dns.apple.com^
+@@||smp-device-content.apple.com^
+@@||mesu.apple.com^
 
 
 # Asus
@@ -153,6 +159,10 @@
 @@||self.events.data.microsoft.com^
 
 
+# Mixpanel
+@@||api.mixpanel.com^
+
+
 # Mozilla
 @@||firefox.settings.services.mozilla.com^
 @@||push.services.mozilla.com^
@@ -218,6 +228,7 @@
 @@||clock.fmt.he.net^
 @@||us-west-2.elb.amazonaws.com^
 @@||iotcplatform.com^
+@@||wyze.dataplane.rudderstack.com^
 
 
 ############
