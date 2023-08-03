@@ -17,6 +17,7 @@
 @@||web.diagnostic.networking.aws.dev^
 @@||lbapigateway01-907695634.eu-central-1.elb.amazonaws.com^
 @@||a2ds1q2tpdj48u.us-east-1.prod.service.minerva.devices.a2z.com^
+@@||dualstack.prod-query-alb-1598358721.us-west-2.elb.amazonaws.com^
 
 
 # Apple
@@ -56,6 +57,7 @@
 @@||api.my.avira.com^
 @@||prod-auth.eu1.apc.avira.com^
 @@||prod-query.eu1.apc.avira.com^
+@@||v2.auc.avira.com^
 
 
 # Banking
