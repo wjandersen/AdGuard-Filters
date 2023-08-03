@@ -1,7 +1,7 @@
 
 ## Devices
 # Wyze Devices
-@@||kinesisvideo^
+@@/kinesisvideo.*/^
 @@||wyzecam.com^
 
 # Nintendo Switch
