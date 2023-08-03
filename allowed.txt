@@ -50,6 +50,7 @@
 @@||safebrowsing-proxy.g.aaplimg.com^
 @@||proxy.safebrowsing.apple^
 @@||token.safebrowsing.apple^
+@@||gateway.icloud.com^
 
 
 # Avira Antivirus
@@ -196,3 +197,7 @@
 @@||wyze-device-alarm-file-face.s3.us-west-2.amazonaws.com^
 
 
+############
+# Web Surfing
+############
+@@||valledrive-in.com^

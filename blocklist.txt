@@ -8,6 +8,7 @@
 ||adjust.com^
 ||adrta.com^
 ||amazon-adsystem.com^
+||advertising.amazon.dev^
 ||amplitude.com^
 ||app-measurement.com^
 ||api.mixpanel.com^
