@@ -26,9 +26,7 @@
 @@||gsp-ssl.ls-apple.com.akadns.net^
 @@||ocsp2-lb.apple.com.akadns.net^
 @@||ocsp2.g.aaplimg.com^
-@@||contacts.fe.apple-dns.net^
-@@||mask.apple-dns.net^
-@@||gateway.fe.apple-dns.net^
+@@||apple-dns.net^
 @@||gsp-ssl.ls.apple.com^
 @@||iphone-ld.origin-apple.com.akadns.net^
 @@||amp-api.sandbox.apps-apple.com.akadns.net^
@@ -51,6 +49,7 @@
 @@||proxy.safebrowsing.apple^
 @@||token.safebrowsing.apple^
 @@||gateway.icloud.com^
+@@||icloud-content.com^
 
 
 # Avira Antivirus
