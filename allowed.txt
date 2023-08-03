@@ -96,6 +96,7 @@
 
 # Certificate Authority
 @@||digicert.com^
+@@||lencr.org^
 
 
 # DuckDuckGo
@@ -160,6 +161,9 @@
 @@||detectportal.firefox.com^
 @@||aus5.mozilla.org^
 @@||ciscobinary.openh264.org^
+@@||firefoxusercontent.com^
+@@||assets-prod.sumo.prod.webservices.mozgcp.net^
+@@||support.mozilla.org^
 
 
 # Netflix
@@ -206,11 +210,12 @@
 @@/wyze/^
 @@/kinesisvideo/^
 @@||wyzecam.com^
-@@||kinesisvideo.us-west-2.amazonaws.com^
-@@||c1ybkrkbr1j10x.credentials.iot.us-west-2.amazonaws.com^
-@@||rest.cache.cell-2-us-west-2-1.prod.a.momentohq.com^
-@@||wyze-device-alarm-file-face.s3.us-west-2.amazonaws.com^
-@@||wyze-device-log.s3.us-west-2.amazonaws.com^
+@@||us-west-2.amazonaws.com^
+@@||a.momentohq.com^
+@@||cdn.shopify.com^
+@@||clock.fmt.he.net^
+@@||us-west-2.elb.amazonaws.com^
+@@||iotcplatform.com^
 
 
 ############

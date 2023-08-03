@@ -76,6 +76,7 @@
 ||mobilefuse.com^
 ||modulate.ai^
 ||myphonesunlimited.com^
+||location.services.mozilla.com^
 # N
 # O
 ||omtrdc.net^
