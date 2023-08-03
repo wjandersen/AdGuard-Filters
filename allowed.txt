@@ -31,12 +31,20 @@
 @@||sandbox.itunes.apple.com^
 @@||p32-contacts.icloud.com^
 @@||p54-contacts.icloud.com^
-
+@@||time.apple.com^
+@@||iphone-ld.apple.com^
+@@||stocks-data-service.lb-apple.com.akadns.net^
+@@||mask.icloud.com^
+@@||time.g.aaplimg.com^
 
 
 # Avira Antivirus
 @@||dispatch.avira-update.com^
 @@||api.my.avira.com^
+
+
+# Battle Net
+@@||telemetry-in.battle.net^
 
 
 # Bitwarden
