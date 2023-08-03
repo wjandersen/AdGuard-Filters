@@ -22,6 +22,8 @@
 @@||contacts.fe.apple-dns.net^
 @@||mask.apple-dns.net^
 @@||gateway.fe.apple-dns.net^
+@@||gsp-ssl.ls.apple.com^
+@@||iphone-ld.origin-apple.com.akadns.net^
 
 
 # Avira Antivirus
@@ -44,8 +46,14 @@
 @@||akamai.net^
 
 
+# DuckDuckGo
+@@||external-content.duckduckgo.com^
+@@duckduckgo.com^
+
+
 # Facebook
 @@||edge-mqtt.facebook.com^
+@@||graph.facebook.com^
 
 # GitHub
 @@||github.com^
@@ -73,6 +81,7 @@
 # Mozilla
 @@||firefox.settings.services.mozilla.com^
 @@||push.services.mozilla.com^
+@@||profile.accounts.firefox.com^
 
 
 # Netflix
@@ -100,6 +109,11 @@
 
 # Roku
 @@display.ravm.tv^
+@@configsvc.cs.roku.com^
+
+
+# SpeetTest
+@@||napi.speedtest.net&
 
 
 # Time Management
