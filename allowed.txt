@@ -85,6 +85,11 @@
 @@||akamaiedge.net^
 @@||fastly.net^
 @@||akamai.net^
+@@||phicdn.net^
+
+
+# Certificate Authority
+@@||digicert.com^
 
 
 # DuckDuckGo

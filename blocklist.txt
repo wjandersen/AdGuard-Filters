@@ -82,7 +82,6 @@
 ||optimizely.com^
 # P
 ||piano.io^
-||phicdn.net^
 ||pki-goog.l.google.com^
 ||pndsn.com^
 # Q
