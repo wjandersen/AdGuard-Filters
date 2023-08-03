@@ -1,2 +1,6 @@
+# Bitwarden
 @@||bitwarden.com^
+
+# Wyze Cameras
 @@||kinesisvideo^
+@@||wyzecam.com^
