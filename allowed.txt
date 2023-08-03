@@ -46,6 +46,7 @@
 ## CDN 
 @@||akamaiedge.net^
 @@||fastly.net^
+@@||akamai.net^
 
 
 ## Google
@@ -56,4 +57,5 @@
 
 ## Amazon
 @@||api.amazonalexa.com^
+@@||mmechocaptiveportal.com^
 @@||web.diagnostic.networking.aws.dev^
