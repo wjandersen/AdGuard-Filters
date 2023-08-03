@@ -115,6 +115,7 @@
 @@www.google.com^
 @@||safebrowsing.googleapis.com^
 @@connectivitycheck.gstatic.com^
+@@www.googleapis.com^
 
 
 # Little Snitch
