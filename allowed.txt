@@ -24,6 +24,9 @@
 @@||gateway.fe.apple-dns.net^
 @@||gsp-ssl.ls.apple.com^
 @@||iphone-ld.origin-apple.com.akadns.net^
+@@||amp-api.sandbox.apps-apple.com.akadns.net^
+@@||amp-api.sandbox.itunes-apple.com.akadns.net^
+@@||sandbox.itunes.apple.com^
 
 
 # Avira Antivirus
@@ -75,7 +78,7 @@
 # Microsoft
 @@||office.com^
 @@||office365.com^
-@@||array504.prod.do.dsp.mp.microsoft.com^
+@@||prod.do.dsp.mp.microsoft.com^
 
 
 # Mozilla
