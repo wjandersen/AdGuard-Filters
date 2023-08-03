@@ -51,6 +51,9 @@
 @@||smoot.apple.com^
 @@||init-p01md.apple.com^
 @@||ce.apple-dns.net^
+@@||lcdn-locator.apple.com^
+@@||lcdn-locator-usuqo.apple.com.akadns.net^
+@@||ocsp2.apple.com^
 
 
 # Asus
