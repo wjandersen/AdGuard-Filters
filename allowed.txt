@@ -18,6 +18,7 @@
 @@||lbapigateway01-907695634.eu-central-1.elb.amazonaws.com^
 @@||a2ds1q2tpdj48u.us-east-1.prod.service.minerva.devices.a2z.com^
 @@||dualstack.prod-query-alb-1598358721.us-west-2.elb.amazonaws.com^
+@@||nodestore-kiros-prod-lb-132549143.us-east-1.elb.amazonaws.com^
 
 
 # Apple
@@ -58,7 +59,7 @@
 
 # Asus
 @@||nw-dlcdnet.asus.com^
-@@www.asusrouter.com^
+@@||www.asusrouter.com^
 
 # Avira Antivirus
 @@||avira-update.com^
@@ -101,7 +102,7 @@
 
 # DuckDuckGo
 @@||external-content.duckduckgo.com^
-@@duckduckgo.com^
+@@||duckduckgo.com^
 
 
 # Facebook
@@ -128,10 +129,11 @@
 
 
 # Google
-@@www.google.com^
+@@||www.google.com^
 @@||safebrowsing.googleapis.com^
-@@connectivitycheck.gstatic.com^
-@@www.googleapis.com^
+@@||connectivitycheck.gstatic.com^
+@@||www.googleapis.com^
+@@||play.googleapis.com^
 
 
 # Little Snitch
@@ -186,8 +188,8 @@
 
 
 # Roku
-@@display.ravm.tv^
-@@configsvc.cs.roku.com^
+@@||display.ravm.tv^
+@@||configsvc.cs.roku.com^
 
 
 # Salesforce
