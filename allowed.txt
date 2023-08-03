@@ -1,21 +1,33 @@
 
 ## Devices
-
-# Wyze Cameras
+# Wyze Devices
 @@||kinesisvideo^
 @@||wyzecam.com^
 
-# Game Console
+# Nintendo Switch
 @@||nintendo.net^
+
+# Oculus
+@@||graph.oculus.com^
 
 # IOT Devices
 @@||loveboxlove.com^
 
-
 ## Software
-
 # Bitwarden
 @@||bitwarden.com^
 
 # Avira Antivirus
 @@||dispatch.avira-update.com^
+
+# Netflix
+@@||push.prod.netflix.com^
+@@||nrdp.prod.ftl.netflix.com^
+
+# Apple
+@@||bag.itunes.apple.com^
+
+# GitHub
+@@||github.com^
+
+
