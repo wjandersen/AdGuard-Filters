@@ -140,6 +140,11 @@
 @@||global.gunraidersapi.com^
 
 
+# Fitbit
+@@||fsc.fitbit.com^
+@@||iphone-cdn-api.fitbit.com^
+
+
 # GitHub
 @@||github.com^
 @@||github.io^
@@ -160,7 +165,6 @@
 @@||www.youtube.com^
 
 
-
 # Little Snitch
 @@||obdev.at^
 
@@ -168,6 +172,7 @@
 # Logitech
 @@||datapipeline.prod.logitech.io^
 @@||flow.logitech.io^
+@@||datapipeline.logitech.io^
 
 
 # Lovebox
