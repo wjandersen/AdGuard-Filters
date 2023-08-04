@@ -19,10 +19,12 @@
 @@||web.diagnostic.networking.aws.dev^
 @@||elb.amazonaws.com^
 @@||minerva.devices.a2z.com^
+@@||ocsp.r2m01.amazontrust.com^
 
 
 # App-Measurement
 @@||app-measurement.com^
+@@||https://app-measurement.com/sdk-exp^
 
 
 # Apple
@@ -72,6 +74,10 @@
 @@||mask-api.icloud.com^
 @@||valid.apple.com^
 @@||support-sp.apple.com^
+@@||swallow.apple.com^
+@@||p146-fmfmobile.icloud.com^
+@@||cl2.apple.com^
+@@||captive.apple.com^
 
 
 # Asus
@@ -105,6 +111,11 @@
 @@||immedia-semi.com^
 
 
+# Braze
+@@||sdk.iad-01.braze.com^
+@@||sdk.iad-03.braze.com^
+
+
 # CDN 
 @@||akamaiedge.net^
 @@||fastly.net^
@@ -117,6 +128,11 @@
 @@||lencr.org^
 
 
+# Crashlytics
+@@||firebase-settings.crashlytics.com^
+
+
+
 # DuckDuckGo
 @@||external-content.duckduckgo.com^
 @@||duckduckgo.com^
@@ -127,6 +143,12 @@
 @@||graph.facebook.com^
 @@||mqtt-mini.facebook.com^
 @@||stun.fbsbx.com^
+@@||time.facebook.com^
+@@||xx.fbcdn.net^
+@@||star.fallback.c10r.facebook.com^
+@@||web.facebook.com^
+@@||chat-e2ee-mini.facebook.com^
+@@||m.facebook.com^
 
 
 # Facebook Oculus
@@ -163,6 +185,7 @@
 @@||youtubei.googleapis.com^
 @@||m.youtube.com^
 @@||www.youtube.com^
+@@|firebaselogging-pa.googleapis.com^
 
 
 # Little Snitch
@@ -173,6 +196,10 @@
 @@||datapipeline.prod.logitech.io^
 @@||flow.logitech.io^
 @@||datapipeline.logitech.io^
+
+
+# Loseit
+@@||gateway.loseit.com^
 
 
 # Lovebox
@@ -241,6 +268,12 @@
 # Roku
 @@||display.ravm.tv^
 @@||configsvc.cs.roku.com^
+@@||cooper.logs.roku.com^
+@@||madison.logs.roku.com^
+
+
+# Rudderlabs
+@@||api.rudderlabs.com^
 
 
 # Salesforce
@@ -282,6 +315,7 @@
 @@||us-west-2.elb.amazonaws.com^
 @@||iotcplatform.com^
 @@||wyze.dataplane.rudderstack.com^
+@@||hms-beta.api.wyze.com^
 
 
 # ZScaler
