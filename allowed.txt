@@ -84,6 +84,7 @@
 @@||mail.me.com.akadns.net^
 @@||c.apple.news^
 @@||www.apple.com.edgekey.net.globalredir.akadns.net^
+@@||speedysub-us-w.edge-itunes-apple.com.akadns.net^
 
 
 # Asus
