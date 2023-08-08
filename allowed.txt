@@ -85,6 +85,25 @@
 @@||c.apple.news^
 @@||www.apple.com.edgekey.net.globalredir.akadns.net^
 @@||speedysub-us-w.edge-itunes-apple.com.akadns.net^
+@@||developer-api.icloud.com^
+@@||www-mail.icloud-sandbox.com^
+@@||gatewayws.icloud.com^
+@@/mcc.icloud.com/^
+@@/mailws.icloud.com.akadns.net/^
+@@/ckdevice.icloud.com/^
+@@/pushws.icloud.com/^
+@@/calendarws.icloud.com/^
+@@/remindersws.icloud.com/^
+@@/setup.icloud.com/^
+@@/docws.icloud.com/^
+@@/mccgateway.icloud.com/^
+@@/keyvalueservice.icloud.com/^
+@@/ckdatabasews.icloud.com/^
+@@||gsas.idms-apple.com.akadns.net^
+@@||gsas.apple.com^
+@@/contactsws.icloud.com/^
+@@/XXXXXXX/^
+@@/XXXXXXX/^
 
 
 # Asus
@@ -163,6 +182,9 @@
 @@||m.facebook.com^
 @@||star.c10r.facebook.com^
 @@||xz.fbcdn.net^
+@@||chat-e2ee.facebook.com^
+@@||mqtt.c10r.facebook.com^
+@@||dgw.c10r.facebook.com^
 
 
 # Facebook Oculus
@@ -180,6 +202,8 @@
 # Fitbit
 @@||fsc.fitbit.com^
 @@||iphone-cdn-api.fitbit.com^
+@@||iphone-cdn-client.fitbit.com.cdn.cloudflare.net^
+@@||iphone-cdn-client.fitbit.com^
 
 
 # GitHub
@@ -203,6 +227,9 @@
 @@|firebaselogging-pa.googleapis.com^
 @@||ocsp.pki.goog^
 
+
+# HP
+@@||chat.hpeprint.com^
 
 #Instagram
 @@||scontent-ord5-1.cdninstagram.com^
@@ -291,6 +318,7 @@
 @@||api-global.netflix.com^
 @@||push.prod.netflix.com^
 @@||nrdp.prod.cloud.netflix.com^
+@@||nrdp-ipv6.prod.ftl.netflix.com^
 
 
 # Nintendo Switch
