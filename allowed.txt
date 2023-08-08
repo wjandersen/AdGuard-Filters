@@ -339,6 +339,11 @@
 @@||hms-beta.api.wyze.com^
 
 
+# Youtube
+@@||restrictmoderate.youtube.com^
+@@||restrict.youtube.com^
+
+
 # ZScaler
 @@||sitereview.zscaler.com^
 
