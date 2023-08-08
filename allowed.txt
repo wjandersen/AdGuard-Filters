@@ -187,6 +187,11 @@
 @@||m.youtube.com^
 @@||www.youtube.com^
 @@|firebaselogging-pa.googleapis.com^
+@@||ocsp.pki.goog^
+
+
+#Instagram
+@@||scontent-ord5-1.cdninstagram.com^
 
 
 # Little Snitch
@@ -253,7 +258,13 @@
 @@||services.addons.mozilla.org^
 @@||classify-client.services.mozilla.com^
 @@||normandy.cdn.mozilla.net^
+@@||shavar.services.mozilla.com^
+
+
+# Mozilla Plugins
 @@||ublockorigin.pages.dev^
+@@||rules2.clearurls.xyz^
+@@||www.eff.org^
 
 
 # Netflix
@@ -335,4 +346,5 @@
 ############
 # Web Surfing
 ############
+@@||example.org^
 @@||valledrive-in.com^
