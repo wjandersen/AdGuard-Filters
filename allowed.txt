@@ -121,6 +121,7 @@
 @@||fastly.net^
 @@||akamai.net^
 @@||phicdn.net^
+@@||cdn.jsdelivr.net^
 
 
 # Certificate Authority
@@ -244,6 +245,15 @@
 @@||support.mozilla.org^
 @@||incoming.telemetry.mozilla.org^
 @@||autopush.prod.mozaws.net^
+@@||addons.mozilla.org^
+@@||download-installer.cdn.mozilla.net^
+@@||versioncheck-bg.addons.mozilla.org^
+@@||download.mozilla.org^
+@@||location.services.mozilla.com^
+@@||services.addons.mozilla.org^
+@@||classify-client.services.mozilla.com^
+@@||normandy.cdn.mozilla.net^
+@@||ublockorigin.pages.dev^
 
 
 # Netflix
