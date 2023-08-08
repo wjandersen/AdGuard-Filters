@@ -78,6 +78,7 @@
 @@||p146-fmfmobile.icloud.com^
 @@||cl2.apple.com^
 @@||captive.apple.com^
+@@||api.apple-cloudkit.com^
 
 
 # Asus
@@ -150,6 +151,7 @@
 @@||web.facebook.com^
 @@||chat-e2ee-mini.facebook.com^
 @@||m.facebook.com^
+@@||star.c10r.facebook.com^
 
 
 # Facebook Oculus
@@ -161,6 +163,7 @@
 @@||ns.photonengine.io^
 @@||api.gameanalytics.com^
 @@||global.gunraidersapi.com^
+@@||xz.fbcdn.net^
 
 
 # Fitbit
@@ -259,6 +262,7 @@
 @@||classify-client.services.mozilla.com^
 @@||normandy.cdn.mozilla.net^
 @@||shavar.services.mozilla.com^
+@@||content-signature-2.cdn.mozilla.net^
 
 
 # Mozilla Plugins
