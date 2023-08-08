@@ -152,6 +152,7 @@
 @@||chat-e2ee-mini.facebook.com^
 @@||m.facebook.com^
 @@||star.c10r.facebook.com^
+@@||xz.fbcdn.net^
 
 
 # Facebook Oculus
@@ -163,7 +164,6 @@
 @@||ns.photonengine.io^
 @@||api.gameanalytics.com^
 @@||global.gunraidersapi.com^
-@@||xz.fbcdn.net^
 
 
 # Fitbit
