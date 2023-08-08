@@ -81,6 +81,9 @@
 @@||cl2.apple.com^
 @@||captive.apple.com^
 @@||api.apple-cloudkit.com^
+@@||mail.me.com.akadns.net^
+@@||c.apple.news^
+@@||www.apple.com.edgekey.net.globalredir.akadns.net^
 
 
 # Asus
@@ -112,6 +115,10 @@
 @@/blink.*/^
 @@||blink-621220870704-media-us-west-2.s3.us-west-2.amazonaws.com^
 @@||immedia-semi.com^
+
+
+# Blizzard
+@@||alert-us.battle.net^
 
 
 # Braze
@@ -166,6 +173,7 @@
 @@||ns.photonengine.io^
 @@||api.gameanalytics.com^
 @@||global.gunraidersapi.com^
+@@||scontent.oculuscdn.com^
 
 
 # Fitbit
@@ -286,6 +294,10 @@
 
 # Nintendo Switch
 @@||nintendo.net^
+
+
+# Optimizely
+@@||cdn.optimizely.com^
 
 
 # Proton Services
