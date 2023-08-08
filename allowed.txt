@@ -38,6 +38,8 @@
 @@||apps-apple.com.akadns.net^
 @@||itunes-apple.com.akadns.net^
 @@||itunes.apple.com^
+@@/content.icloud.com/^
+@@/contents.icloud.com/^
 @@||p26-content.icloud.com^
 @@||p32-contacts.icloud.com^
 @@||p40-content.icloud.com^
