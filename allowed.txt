@@ -15,7 +15,7 @@
 @@||device-metrics-us-2.amazon.com^
 @@||images-na.ssl-images-amazon.com^
 @@||iretvcaptiveportal.com^
-@@||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
+@@||turntable.sonic.advertising.amazon.dev^
 @@||arl.assets.apl-alexa.com^
 @@||cdn.prod.adskit.juno.alexa.amazon.dev^
 @@||na.api.amazonvideo.com^
@@ -114,6 +114,11 @@
 @@||news-assets.apple.com^
 @@||cl3.apple.com^
 @@||imap.mail.me.com^
+@@||mailws.icloud.com.akadns.net^
+@@||gsa.apple.com^
+@@||updates.cdn-apple.com^
+@@||swdist.apple.com^
+@@||swscan.apple.com^
 
 
 # ARP Connection
@@ -144,6 +149,7 @@
 @@||telemetry-in.battle.net.local^
 @@||us.patch.battle.net^
 @@||alert-us.battle.net.local^
+@@||us.patch.battle.net.local^
 
 
 # Bitwarden
@@ -268,12 +274,18 @@
 @@||oauthaccountmanager.googleapis.com^
 @@||photos-ugc.l.googleusercontent.com^
 @@||yt3.ggpht.com^
+@@||pagead2.googlesyndication.com^
+@@||ade.googlesyndication.com^
+@@||ad.doubleclick.net^
+@@||embeddedassistant.googleapis.com^
+@@||geller-pa.googleapis.com^
 
 
 # HP
 @@||chat.hpeprint.com^
 
-# nstagram
+
+# Instagram
 @@||scontent-ord5-1.cdninstagram.com^
 
 
@@ -368,6 +380,10 @@
 @@||mysecurity.microsoft.com^
 @@||teams.live.com^
 @@||maps.windows.com^
+@@||storage.live.com^
+@@||edge.microsoft.com^
+@@||ris.api.iris.microsoft.com^
+@@||arc.msn.com^
 
 
 # Mixpanel
@@ -497,6 +513,7 @@
 @@||open.spotify.com^
 @@||edge-web-gue1.dual-gslb.spotify.com^
 @@||www.spotify.com^
+@@||apresolve.spotify.com^
 
 
 # Synology
