@@ -27,7 +27,6 @@
 
 # App-Measurement
 @@||app-measurement.com^
-@@||https://app-measurement.com/sdk-exp^
 
 
 # AppDynamics
@@ -45,16 +44,9 @@
 @@||apps-apple.com.akadns.net^
 @@||itunes-apple.com.akadns.net^
 @@||itunes.apple.com^
-@@/content.icloud.com/^
-@@/contents.icloud.com/^
-@@||p26-content.icloud.com^
-@@||p32-contacts.icloud.com^
-@@||p32-content.icloud.com^
-@@||p40-content.icloud.com^
-@@||p50-content.icloud.com^
-@@||p53-contacts.icloud.com^
-@@||p54-contacts.icloud.com^
-@@||p62-content.icloud.com^
+@@||content.icloud.com^
+@@||contents.icloud.com^
+@@||contactsws.icloud.com^
 @@||time.apple.com^
 @@||iphone-ld.apple.com^
 @@||lb-apple.com.akadns.net^
@@ -96,20 +88,19 @@
 @@||developer-api.icloud.com^
 @@||www-mail.icloud-sandbox.com^
 @@||gatewayws.icloud.com^
-@@/mcc.icloud.com/^
-@@/mailws.icloud.com.akadns.net/^
-@@/ckdevice.icloud.com/^
-@@/pushws.icloud.com/^
-@@/calendarws.icloud.com/^
-@@/remindersws.icloud.com/^
-@@/setup.icloud.com/^
-@@/docws.icloud.com/^
-@@/mccgateway.icloud.com/^
-@@/keyvalueservice.icloud.com/^
-@@/ckdatabasews.icloud.com/^
+@@||mcc.icloud.com^
+@@||mailws.icloud.com.akadns.net^
+@@||ckdevice.icloud.com^
+@@||pushws.icloud.com^
+@@||calendarws.icloud.com^
+@@||remindersws.icloud.com^
+@@||setup.icloud.com^
+@@||docws.icloud.com^
+@@||mccgateway.icloud.com^
+@@||keyvalueservice.icloud.com^
+@@||ckdatabasews.icloud.com^
 @@||gsas.idms-apple.com.akadns.net^
 @@||gsas.apple.com^
-@@/contactsws.icloud.com/^
 @@||www.apple.com^
 @@||probe.icloud.com^
 @@||edge-itunes-apple.com.akadns.net^
@@ -140,7 +131,7 @@
 @@||wellsfargo.com^
 
 
-# Battle Net / Blizzard
+# Battle Net - Blizzard
 @@||telemetry-in.battle.net^
 @@||alert-us.battle.net^
 @@||telemetry-in.battle.net.local^
@@ -153,8 +144,7 @@
 
 
 # Blink Cameras
-@@/blink.*/^
-@@||blink-621220870704-media-us-west-2.s3.us-west-2.amazonaws.com^
+@@||blink^
 @@||immedia-semi.com^
 
 
@@ -448,8 +438,8 @@
 
 
 # Wyze Cameras and Devices
-@@/wyze/^
-@@/kinesisvideo/^
+@@||wyze^
+@@||kinesisvideo^
 @@||wyzecam.com^
 @@||us-west-2.amazonaws.com^
 @@||a.momentohq.com^
