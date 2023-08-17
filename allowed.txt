@@ -1,9 +1,6 @@
 # This list is noting that we are 100% ok with this traffic but is more about identifing it.
 # When using an Allowed List and a Blocked List together you see what is new traffic on the network.
 
-# ARP Connection
-@@||in-addr.arpa^
-
 
 # Amazon Alexa and IOT
 @@||api.amazonalexa.com^
@@ -49,6 +46,7 @@
 @@/contents.icloud.com/^
 @@||p26-content.icloud.com^
 @@||p32-contacts.icloud.com^
+@@||p32-content.icloud.com^
 @@||p40-content.icloud.com^
 @@||p50-content.icloud.com^
 @@||p53-contacts.icloud.com^
@@ -115,13 +113,19 @@
 @@||amp-api.apps.apple.com^
 
 
+# ARP Connection
+@@||in-addr.arpa^
+
+
 # Asus
 @@||nw-dlcdnet.asus.com^
 @@||www.asusrouter.com^
 
+
 # Avira Antivirus
 @@||avira-update.com^
 @@||avira.com^
+@@||prod.update-bridge.avira.net^
 
 
 # Banking
@@ -131,8 +135,11 @@
 @@||wellsfargo.com^
 
 
-# Battle Net
+# Battle Net / Blizzard
 @@||telemetry-in.battle.net^
+@@||alert-us.battle.net^
+@@||telemetry-in.battle.net.local^
+@@||us.patch.battle.net^
 
 
 # Bitwarden
@@ -144,12 +151,6 @@
 @@/blink.*/^
 @@||blink-621220870704-media-us-west-2.s3.us-west-2.amazonaws.com^
 @@||immedia-semi.com^
-
-
-# Blizzard
-@@||alert-us.battle.net^
-@@||telemetry-in.battle.net.local^
-@@||us.patch.battle.net^
 
 
 # Braze
@@ -167,6 +168,8 @@
 @@||akamai.net^
 @@||phicdn.net^
 @@||cdn.jsdelivr.net^
+@@||rsc.cdn77.org^
+@@||xnxx-cdn.com^
 
 
 # Certificate Authority
@@ -246,6 +249,8 @@
 @@||googlevideo.com^
 @@||i.ytimg.com^
 @@||fonts.googleapis.com^
+@@||redirector.googlevideo.com^
+@@||s.youtube.com^
 
 
 # HP
@@ -293,6 +298,8 @@
 @@||live.com.akadns.net^
 @@||nexus.officeapps.live.com^
 @@||events.data.microsoft.com^
+@@||g.bing.com^
+@@||www.bing.com^
 
 
 # Mixpanel
@@ -324,6 +331,7 @@
 @@||normandy.cdn.mozilla.net^
 @@||shavar.services.mozilla.com^
 @@||content-signature-2.cdn.mozilla.net^
+@@||prod.balrog.prod.cloudops.mozgcp.net^
 
 
 # Mozilla Plugins
@@ -407,6 +415,10 @@
 
 # Time Management
 @@||time-a.nist.gov^
+
+
+# vcmdiawe
+@@||galleryn3.vcmdiawe.com^
 
 
 # Wyze Cameras and Devices
