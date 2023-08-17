@@ -27,6 +27,10 @@
 @@||https://app-measurement.com/sdk-exp^
 
 
+# AppDynamics
+@@||col.eum-appdynamics.com^
+
+
 # Apple
 @@||bag.itunes.apple.com^
 @@||aaplimg.com^
@@ -102,8 +106,10 @@
 @@||gsas.idms-apple.com.akadns.net^
 @@||gsas.apple.com^
 @@/contactsws.icloud.com/^
-@@/XXXXXXX/^
-@@/XXXXXXX/^
+@@||www.apple.com^
+@@||probe.icloud.com^
+@@||edge-itunes-apple.com.akadns.net^
+@@||amp-api.apps.apple.com^
 
 
 # Asus
@@ -139,11 +145,17 @@
 
 # Blizzard
 @@||alert-us.battle.net^
+@@||telemetry-in.battle.net.local^
+@@||us.patch.battle.net^
 
 
 # Braze
 @@||sdk.iad-01.braze.com^
 @@||sdk.iad-03.braze.com^
+
+
+# Brilliant Collector
+@@||lib-us-2.brilliantcollector.com^
 
 
 # CDN 
@@ -161,7 +173,6 @@
 
 # Crashlytics
 @@||firebase-settings.crashlytics.com^
-
 
 
 # DuckDuckGo
@@ -209,6 +220,7 @@
 # GitHub
 @@||github.com^
 @@||github.io^
+@@||avatars.githubusercontent.com^
 
 
 # Google
@@ -226,6 +238,11 @@
 @@||www.youtube.com^
 @@|firebaselogging-pa.googleapis.com^
 @@||ocsp.pki.goog^
+@@||www.googleadservices.com^
+@@||s.youtube.com^
+@@||googlevideo.com^
+@@||i.ytimg.com^
+@@||fonts.googleapis.com^
 
 
 # HP
@@ -270,6 +287,9 @@
 @@||marketplace.visualstudio.com^
 @@||default.exp-tas.com^
 @@||eas.outlook.com^
+@@||live.com.akadns.net^
+@@||nexus.officeapps.live.com^
+@@||events.data.microsoft.com^
 
 
 # Mixpanel
@@ -329,8 +349,22 @@
 @@||cdn.optimizely.com^
 
 
+# Progressive
+@@||api.progressive.com^
+@@||login.progressive.com^
+@@||policyservicing.apps.progressive.com^
+@@||cus-flagr-prod.apps.progressive.com^
+@@||rtds.progressive.com^
+@@||account.apps.progressive.com^
+@@||click.e.progressive.com^
+
+
 # Proton Services
 @@||proton.me^
+
+
+# Quantummetric
+@@||cdn.quantummetric.com^
 
 
 # Roku
