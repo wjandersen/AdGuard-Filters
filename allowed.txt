@@ -15,6 +15,10 @@
 @@||device-metrics-us-2.amazon.com^
 @@||images-na.ssl-images-amazon.com^
 @@||iretvcaptiveportal.com^
+@@||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
+@@||arl.assets.apl-alexa.com^
+@@||cdn.prod.adskit.juno.alexa.amazon.dev^
+@@||na.api.amazonvideo.com^
 
 
 # Amazon Web Services
@@ -169,11 +173,16 @@
 @@||cdn.jsdelivr.net^
 @@||rsc.cdn77.org^
 @@||xnxx-cdn.com^
+@@||data.osdknw.com^
 
 
 # Certificate Authority
 @@||digicert.com^
 @@||lencr.org^
+@@||globalsign.net^
+@@||globalsign.com^
+@@||sectigo.com^
+@@||usertrust.com^
 
 
 # Crashlytics
@@ -222,6 +231,10 @@
 @@||iphone-cdn-client.fitbit.com^
 
 
+# Greenshot
+@@||getgreenshot.org^
+
+
 # GitHub
 @@||github.com^
 @@||github.io^
@@ -251,13 +264,24 @@
 @@||redirector.googlevideo.com^
 @@||s.youtube.com^
 @@||gdmf.apple.com^
+@@||securepubads.g.doubleclick.net^
+@@||oauthaccountmanager.googleapis.com^
+@@||photos-ugc.l.googleusercontent.com^
+@@||yt3.ggpht.com^
 
 
 # HP
 @@||chat.hpeprint.com^
 
-#Instagram
+# nstagram
 @@||scontent-ord5-1.cdninstagram.com^
+
+
+# Lenovo
+@@||chifsr.lenovomm.com^
+@@||filedownload.lenovo.com^
+@@||msg.csw.lenovo.com^
+@@||www.lenovo.com^
 
 
 # Little Snitch
@@ -268,6 +292,7 @@
 @@||datapipeline.prod.logitech.io^
 @@||flow.logitech.io^
 @@||datapipeline.logitech.io^
+@@||updates.logitech.com^
 
 
 # Loseit
@@ -303,6 +328,46 @@
 @@||settings-win.data.microsoft.com^
 @@||ctldl.windowsupdate.com^
 @@||nexusrules.officeapps.live.com^
+@@||onedriveclucproddm20005.blob.core.windows.net^
+@@||onedriveclucprodbn20004.blob.core.windows.net^
+@@||dmd.metaservices.microsoft.com^
+@@||go.microsoft.com^
+@@||delivery.mp.microsoft.com^
+@@||assets.activity.windows.com^
+@@||dl.delivery.mp.microsoft.com^
+@@||tsfe.trafficshaping.dsp.mp.microsoft.com^
+@@||storecatalogrevocation.storequality.microsoft.com^
+@@||storecatalogrevocation.storequality.microsoft.com^
+@@||activity.windows.com^
+@@||storeedgefd.dsx.mp.microsoft.com^
+@@||licensing.mp.microsoft.com^
+@@||login.live.com^
+@@||graph.microsoft.com^
+@@||ecn-us.dev.virtualearth.net^
+@@||img-s-msn-com.akamaized.net^
+@@||th.bing.com^
+@@||www.msn.com^
+@@||assets.msn.com^
+@@||windows.msn.com^
+@@||config.edge.skype.com^
+@@||f.c2r.ts.cdn.office.net^
+@@||officeclient.microsoft.com^
+@@||mrodevicemgr.officeapps.live.com^
+@@||mucp.api.account.microsoft.com^
+@@||xsts.auth.xboxlive.com^
+@@||user.auth.xboxlive.com^
+@@||title.mgt.xboxlive.com^
+@@||title.auth.xboxlive.com^
+@@||device.auth.xboxlive.com^
+@@||login.live.com^
+@@||fd.api.iris.microsoft.com^
+@@||statics.teams.cdn.office.net^
+@@||storeedgefd.dsx.mp.microsoft.com^
+@@||config.teams.microsoft.com^
+@@||mydefender.microsoft.com^
+@@||mysecurity.microsoft.com^
+@@||teams.live.com^
+@@||maps.windows.com^
 
 
 # Mixpanel
@@ -382,10 +447,11 @@
 
 
 # Roku
-@@||display.ravm.tv^
+@@||ravm.tv^
 @@||configsvc.cs.roku.com^
 @@||cooper.logs.roku.com^
 @@||madison.logs.roku.com^
+@@||tis.cti.roku.com^
 
 
 # Rudderlabs
