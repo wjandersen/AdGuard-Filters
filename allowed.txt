@@ -107,6 +107,9 @@
 @@||amp-api.apps.apple.com^
 @@||metrics.icloud.com^
 @@||sequoia.cdn-apple.com^
+@@||news-assets.apple.com^
+@@||cl3.apple.com^
+@@||imap.mail.me.com^
 
 
 # ARP Connection
@@ -136,6 +139,7 @@
 @@||alert-us.battle.net^
 @@||telemetry-in.battle.net.local^
 @@||us.patch.battle.net^
+@@||alert-us.battle.net.local^
 
 
 # Bitwarden
@@ -298,6 +302,7 @@
 @@||www.bing.com^
 @@||settings-win.data.microsoft.com^
 @@||ctldl.windowsupdate.com^
+@@||nexusrules.officeapps.live.com^
 
 
 # Mixpanel
@@ -418,7 +423,14 @@
 @@||seektables.scdn.co^
 @@||api.spotify.com^
 @@||open.spotifycdn.com^
-
+@@||edge-web.dual-gslb.spotify.com^
+@@||spclient.wg.spotify.com^
+@@||audio-ak-spotify-com.akamaized.net^
+@@||i.scdn.co^
+@@||api-partner.spotify.com^
+@@||open.spotify.com^
+@@||edge-web-gue1.dual-gslb.spotify.com^
+@@||www.spotify.com^
 
 
 # Synology
@@ -431,6 +443,7 @@
 
 # Time Management
 @@||time-a.nist.gov^
+@@||2.android.pool.ntp.org^
 
 
 # vcmdiawe
