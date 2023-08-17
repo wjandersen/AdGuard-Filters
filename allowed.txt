@@ -13,6 +13,8 @@
 @@||arcus-uswest.amazon.com^
 @@||device-metrics-us.amazon.com^
 @@||device-metrics-us-2.amazon.com^
+@@||images-na.ssl-images-amazon.com^
+@@||iretvcaptiveportal.com^
 
 
 # Amazon Web Services
@@ -20,6 +22,7 @@
 @@||elb.amazonaws.com^
 @@||minerva.devices.a2z.com^
 @@||ocsp.r2m01.amazontrust.com^
+@@||execute-api.us-east-1.amazonaws.com^
 
 
 # App-Measurement
@@ -111,6 +114,8 @@
 @@||probe.icloud.com^
 @@||edge-itunes-apple.com.akadns.net^
 @@||amp-api.apps.apple.com^
+@@||metrics.icloud.com^
+@@||sequoia.cdn-apple.com^
 
 
 # ARP Connection
@@ -251,6 +256,7 @@
 @@||fonts.googleapis.com^
 @@||redirector.googlevideo.com^
 @@||s.youtube.com^
+@@||gdmf.apple.com^
 
 
 # HP
@@ -300,6 +306,8 @@
 @@||events.data.microsoft.com^
 @@||g.bing.com^
 @@||www.bing.com^
+@@||settings-win.data.microsoft.com^
+@@||ctldl.windowsupdate.com^
 
 
 # Mixpanel
@@ -405,13 +413,31 @@
 @@||update-timezone.sonos.com^
 
 
+# Super Fly VR Game
+@@||superflyvrgame.com^
+
+
 # SpeedTest
 @@||napi.speedtest.net^
 
 
 # Spotify
 @@||ap.spotify.com^
+@@||partners.wg.spotify.com^
+@@||gue1-spclient.spotify.com^
+@@||seektables.scdn.co^
+@@||api.spotify.com^
+@@||open.spotifycdn.com^
 
+
+
+# Synology
+@@||finds.synology.com^
+@@||direct.quickconnect.to^
+@@||usc.quickconnect.to^
+@@||global.sns.cs.quickconnect.to^
+@@||sns.synology.com^
+@@||global.quickconnect.to^
 
 # Time Management
 @@||time-a.nist.gov^
