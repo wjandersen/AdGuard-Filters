@@ -27,6 +27,7 @@
 @@||minerva.devices.a2z.com^
 @@||ocsp.r2m01.amazontrust.com^
 @@||execute-api.us-east-1.amazonaws.com^
+@@||ocsp.rootca1.amazontrust.com^
 
 
 # App-Measurement
@@ -119,6 +120,13 @@
 @@||updates.cdn-apple.com^
 @@||swdist.apple.com^
 @@||swscan.apple.com^
+@@||ontology.health.apple.com^
+@@||amp-api.media.apple.com^
+@@||s.mzstatic.com^
+@@||app-site-association.cdn-apple.com^
+@@||apps.mzstatic.com^
+@@||experiments.apple.com^
+@@||fides-pol.apple.com^
 
 
 # ARP Connection
@@ -216,6 +224,7 @@
 @@||chat-e2ee.facebook.com^
 @@||mqtt.c10r.facebook.com^
 @@||dgw.c10r.facebook.com^
+@@||chat-e2ee.c10r.facebook.com^
 
 
 # Facebook Oculus
@@ -228,6 +237,7 @@
 @@||api.gameanalytics.com^
 @@||global.gunraidersapi.com^
 @@||scontent.oculuscdn.com^
+@@||oculus.com^
 
 
 # Fitbit
@@ -384,6 +394,7 @@
 @@||edge.microsoft.com^
 @@||ris.api.iris.microsoft.com^
 @@||arc.msn.com^
+@@||part-0023.t-0009.t-msedge.net^
 
 
 # Mixpanel
@@ -527,10 +538,15 @@
 # Time Management
 @@||time-a.nist.gov^
 @@||2.android.pool.ntp.org^
+@@||pool.ntp.org^
 
 
 # vcmdiawe
 @@||galleryn3.vcmdiawe.com^
+
+
+# Western Digital  
+@@||prod-proxy.wdckeystone.com^
 
 
 # Wyze Cameras and Devices
