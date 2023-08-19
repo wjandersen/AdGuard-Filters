@@ -72,6 +72,7 @@
 @@/imap.mail.me.com/
 @@/escrowproxy.icloud.com/
 @@/caldav.icloud.com/
+@@/fmip.icloud.com/
 @@|apple.com^
 @@|icloud.com^
 @@||mail.me.com^
