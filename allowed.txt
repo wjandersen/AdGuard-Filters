@@ -7,10 +7,18 @@
 # Software or Device Driven
 ################################################
 
+
+# Adobe
+@@||assets.adobedtm.com^
+
+
 # AirTable
 @@||geolocation.onetrust.com^
 @@|airtable.com^
 @@||api.amplitude.com^
+@@||cdn.cookielaw.org^
+@@||www.onetrust.com^
+@@|onetrust.com^
 
 
 # Amazon Alexa and IOT
@@ -227,6 +235,8 @@
 @@||data.osdknw.com^
 @@||akadns.net^
 @@||akaquill.net^
+@@||cloudflare.com^
+@@||unpkg.com^
 
 
 # Certificate Authority
