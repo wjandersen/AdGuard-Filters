@@ -3,9 +3,9 @@
 # Please bare with me at this time.
 
 
-################################################
+################################################################################################
 # Software or Device Driven
-################################################
+################################################################################################
 
 
 # Adobe
@@ -55,15 +55,6 @@
 @@||ocsp.rootca1.amazontrust.com^
 @@||ocsp.r2m02.amazontrust.com^
 @@||elb.us-east-1.amazonaws.com^
-
-
-# App-Measurement
-@@||app-measurement.com^
-@@||https://app-measurement.com/sdk-exp^
-
-
-# AppDynamics
-@@||col.eum-appdynamics.com^
 
 
 # Apple
@@ -233,14 +224,6 @@
 @@||api.box.com^
 @@||client-log.box.com^
 
-# Braze
-@@||sdk.iad-01.braze.com^
-@@||sdk.iad-03.braze.com^
-
-
-# Brilliant Collector
-@@||lib-us-2.brilliantcollector.com^
-
 
 # CDN 
 @@||akamaiedge.net^
@@ -255,6 +238,7 @@
 @@||akaquill.net^
 @@||cloudflare.com^
 @@||unpkg.com^
+@@||cdn.optimizely.com^
 
 
 # Certificate Authority
@@ -305,6 +289,7 @@
 @@||global.gunraidersapi.com^
 @@||scontent.oculuscdn.com^
 @@||oculus.com^
+@@||superflyvrgame.com^
 
 
 # Fitbit
@@ -344,7 +329,6 @@
 @@||www.youtube.com^
 @@|firebaselogging-pa.googleapis.com^
 @@||ocsp.pki.goog^
-@@||www.googleadservices.com^
 @@||s.youtube.com^
 @@||googlevideo.com^
 @@||i.ytimg.com^
@@ -352,16 +336,11 @@
 @@||redirector.googlevideo.com^
 @@||s.youtube.com^
 @@||gdmf.apple.com^
-@@||securepubads.g.doubleclick.net^
 @@||oauthaccountmanager.googleapis.com^
 @@||photos-ugc.l.googleusercontent.com^
 @@||yt3.ggpht.com^
-@@||pagead2.googlesyndication.com^
-@@||ade.googlesyndication.com^
-@@||ad.doubleclick.net^
 @@||embeddedassistant.googleapis.com^
 @@||geller-pa.googleapis.com^
-@@||tpc.googlesyndication.com^
 @@||fonts.gstatic.com^
 @@||content-storage-upload.googleapis.com^
 @@||gcs-blue-upload-us.l.googleusercontent.com^
@@ -545,10 +524,6 @@
 @@||nintendo.net^
 
 
-# Optimizely
-@@||cdn.optimizely.com^
-
-
 # Progressive
 @@||api.progressive.com^
 @@||login.progressive.com^
@@ -561,10 +536,6 @@
 
 # Proton Services
 @@||proton.me^
-
-
-# Quantummetric
-@@||cdn.quantummetric.com^
 
 
 # RealVNC
@@ -585,16 +556,8 @@
 @@||amarillo.sb.roku.com^
 
 
-# Rudderlabs
-@@||api.rudderlabs.com^
-
-
-# Salesforce
-@@||salesforceliveagent.com^
-
-
-# Sentry
-@@||sentry.io^
+# SnapChat
+@@||gcp.api.sc-gw.com^
 
 
 # Sonos
@@ -603,10 +566,6 @@
 @@||update.sonos.com^
 @@||service-catalog.ws.sonos.com^
 @@||update-timezone.sonos.com^
-
-
-# Super Fly VR Game
-@@||superflyvrgame.com^
 
 
 # SpeedTest
@@ -639,6 +598,7 @@
 @@||sns.synology.com^
 @@||global.quickconnect.to^
 
+
 # Time Management
 @@||time-a.nist.gov^
 @@||2.android.pool.ntp.org^
@@ -651,16 +611,8 @@
 @@||analytics.twitter.com^
 
 
-# vcmdiawe
-@@||galleryn3.vcmdiawe.com^
-
-
 # Western Digital  
 @@||prod-proxy.wdckeystone.com^
-
-
-# WixDNS
-@@||td-ccm-neg-87-45.wixdns.net^
 
 
 # Wyze Cameras and Devices
@@ -674,18 +626,13 @@
 @@||us-west-2.elb.amazonaws.com^
 @@||iotcplatform.com^
 @@||wyze.dataplane.rudderstack.com^
+@@||api.rudderlabs.com^
 @@||hms-beta.api.wyze.com^
 
 
 # Youtube
 @@||restrictmoderate.youtube.com^
 @@||restrict.youtube.com^
-
-
-# ZScaler
-@@||sitereview.zscaler.com^
-
-
 
 
 ################################################
@@ -700,18 +647,12 @@
 @@||fast.wistia.com^
 @@||fonts.cdnfonts.com^
 @@||ocsp.comodoca.com^
-
-
-################################################
-# Web Surfing Driven
-################################################
-@@||example.org^
-@@||valledrive-in.com^
-@@||www.ncmpswimteam2023.com^
-@@||miro.medium.com^
-@@||cdn-client.medium.com^
-@@||glyph.medium.com^
-@@|medium.com^
+@@||td-ccm-neg-87-45.wixdns.net^
+@@||salesforceliveagent.com^
+@@||galleryn3.vcmdiawe.com^
+@@||sitereview.zscaler.com^
+@@||sentry.io^
+@@||cdn.quantummetric.com^
 
 
 ################################################
@@ -722,3 +663,27 @@
 @@||stats.g.doubleclick.net^
 @@||www-alv.google-analytics.com^
 @@||www.google-analytics.com^
+@@||app-measurement.com^
+@@||https://app-measurement.com/sdk-exp^
+@@||col.eum-appdynamics.com^
+@@||sdk.iad-01.braze.com^
+@@||sdk.iad-03.braze.com^
+@@||lib-us-2.brilliantcollector.com^
+@@||securepubads.g.doubleclick.net^
+@@||ad.doubleclick.net^
+@@||www.googleadservices.com^
+@@||pagead2.googlesyndication.com^
+@@||ade.googlesyndication.com^
+@@||tpc.googlesyndication.com^
+
+
+################################################################################################
+# Web Surfing Driven
+################################################################################################
+@@||example.org^
+@@||valledrive-in.com^
+@@||www.ncmpswimteam2023.com^
+@@||miro.medium.com^
+@@||cdn-client.medium.com^
+@@||glyph.medium.com^
+@@|medium.com^
