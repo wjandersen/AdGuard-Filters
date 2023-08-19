@@ -39,6 +39,7 @@
 
 # App-Measurement
 @@||app-measurement.com^
+@@||https://app-measurement.com/sdk-exp^
 
 
 # AppDynamics
@@ -179,6 +180,7 @@
 @@||us.patch.battle.net^
 @@||alert-us.battle.net.local^
 @@||us.patch.battle.net.local^
+@@||us.version.battle.net^
 
 
 # Bitwarden
@@ -190,6 +192,14 @@
 @@||blink^
 @@||immedia-semi.com^
 
+
+# Box
+@@||app.box.com^
+@@||www.box.com^
+@@||notes.services.box.com^
+@@|box.com^
+@@||api.box.com^
+@@||client-log.box.com^
 
 # Braze
 @@||sdk.iad-01.braze.com^
@@ -210,6 +220,7 @@
 @@||xnxx-cdn.com^
 @@||data.osdknw.com^
 @@||akadns.net^
+@@||akaquill.net^
 
 
 # Certificate Authority
