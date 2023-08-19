@@ -13,12 +13,8 @@
 
 
 # AirTable
-@@||geolocation.onetrust.com^
 @@|airtable.com^
-@@||api.amplitude.com^
-@@||cdn.cookielaw.org^
-@@||www.onetrust.com^
-@@|onetrust.com^
+@@||static.airtable.com^
 
 
 # Amazon Alexa and IOT
@@ -159,6 +155,7 @@
 @@||notes-analytics-events.apple.com^
 @@||pancake.apple.com^
 @@||pr-pod2-smp-device.apple.com^
+@@||ls.apple.com.edgesuite.net^
 
 
 # ARP Connection
@@ -650,6 +647,18 @@
 
 
 ################################################
+# Unknown App
+################################################
+@@||geolocation.onetrust.com^               ! Maybe Airtable
+@@||api.amplitude.com^                      ! Maybe Airtable
+@@||cdn.cookielaw.org^                      ! Maybe Airtable
+@@||www.onetrust.com^                       ! Maybe Airtable
+@@|onetrust.com^                            ! Maybe Airtable
+@@||mobile-protect-api.securetheorem.com^   ! Maybe Airtable
+@@||458-jhq-131.mktoresp.com^               ! Maybe Airtable
+
+
+################################################
 # Web Surfing Driven
 ################################################
 @@||example.org^
@@ -666,3 +675,6 @@
 ################################################
 @@||cdn.branch.io^
 @@||datadoghq.com^
+@@||stats.g.doubleclick.net^
+@@||www-alv.google-analytics.com^
+@@||www.google-analytics.com^
