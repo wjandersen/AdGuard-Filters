@@ -365,6 +365,10 @@
 @@||obdev.at^
 
 
+# Local
+@@|local^
+
+
 # Logitech
 @@||datapipeline.prod.logitech.io^
 @@||flow.logitech.io^
