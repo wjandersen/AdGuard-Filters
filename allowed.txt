@@ -73,6 +73,8 @@
 @@/escrowproxy.icloud.com/
 @@/caldav.icloud.com/
 @@/fmip.icloud.com/
+@@/fmf.icloud.com/
+@@/fmipmobile.icloud.com/
 @@|apple.com^
 @@|icloud.com^
 @@||mail.me.com^
