@@ -2,6 +2,18 @@
 # When using an Allowed List and a Blocked List together you see what is new traffic on the network.
 
 
+# @@/example.*/
+
+
+################################################
+# Software or Device Driven
+################################################
+
+# Wildcard Items
+@@/contacts.icloud.com/
+
+
+
 # Amazon Alexa and IOT
 @@||api.amazonalexa.com^
 @@||mmechocaptiveportal.com^
@@ -39,6 +51,8 @@
 
 
 # Apple
+@@|apple.com^
+@@|icloud.com^
 @@||bag.itunes.apple.com^
 @@||aaplimg.com^
 @@||ls-apple.com.akadns.net^
@@ -266,6 +280,7 @@
 @@||github.com^
 @@||github.io^
 @@||avatars.githubusercontent.com^
+@@||github.githubassets.com^
 
 
 # Google
@@ -300,6 +315,8 @@
 @@||ad.doubleclick.net^
 @@||embeddedassistant.googleapis.com^
 @@||geller-pa.googleapis.com^
+@@||tpc.googlesyndication.com^
+@@||fonts.gstatic.com^
 
 
 # HP
@@ -597,9 +614,20 @@
 @@||sitereview.zscaler.com^
 
 
-############
-# Web Surfing
-############
+################################################
+# Web Surfing Driven
+################################################
 @@||example.org^
 @@||valledrive-in.com^
 @@||www.ncmpswimteam2023.com^
+@@||miro.medium.com^
+@@||cdn-client.medium.com^
+@@||glyph.medium.com^
+@@|medium.com^
+
+
+################################################
+# Known Advertising or Tracking
+################################################
+@@||cdn.branch.io^
+@@||datadoghq.com^
