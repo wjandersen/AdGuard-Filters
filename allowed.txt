@@ -1,17 +1,11 @@
-# This list is noting that we are 100% ok with this traffic but is more about identifing it.
-# When using an Allowed List and a Blocked List together you see what is new traffic on the network.
-
-
-# @@/example.*/
+# At this point I am just observing urls.
+# I will start trully defining Allowed and Blocked soon. 
+# Please bare with me at this time.
 
 
 ################################################
 # Software or Device Driven
 ################################################
-
-# Wildcard Items
-@@/contacts.icloud.com/
-
 
 
 # Amazon Alexa and IOT
@@ -52,6 +46,7 @@
 
 
 # Apple
+@@/contacts.icloud.com/
 @@|apple.com^
 @@|icloud.com^
 @@||bag.itunes.apple.com^
