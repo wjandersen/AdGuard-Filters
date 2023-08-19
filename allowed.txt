@@ -53,6 +53,8 @@
 @@||ocsp.r2m01.amazontrust.com^
 @@||execute-api.us-east-1.amazonaws.com^
 @@||ocsp.rootca1.amazontrust.com^
+@@||ocsp.r2m02.amazontrust.com^
+@@||elb.us-east-1.amazonaws.com^
 
 
 # App-Measurement
@@ -66,8 +68,10 @@
 
 # Apple
 @@/contacts.icloud.com/
+@@/content.icloud.com/
 @@/imap.mail.me.com/
 @@/escrowproxy.icloud.com/
+@@/caldav.icloud.com/
 @@|apple.com^
 @@|icloud.com^
 @@||mail.me.com^
@@ -169,6 +173,7 @@
 @@||cstat.cdn-apple.com^
 @@||cl4.apple.com^
 @@||ls.apple.com.edgekey.net^
+@@||stocks-data-service.apple.com^
 
 
 # ARP Connection
@@ -306,15 +311,19 @@
 @@||iphone-cdn-client.fitbit.com^
 
 
-# Greenshot
-@@||getgreenshot.org^
-
-
 # GitHub
 @@||github.com^
 @@||github.io^
 @@||avatars.githubusercontent.com^
 @@||github.githubassets.com^
+
+
+# GoodNotes
+@@||api.goodnotescloud.com^
+@@||auth.goodnotescloud.com^
+@@||api.goodnotes.email^
+@@||api.sprig.com^
+@@||gn-shop.goodnotesplatform.com^
 
 
 # Google
@@ -353,6 +362,12 @@
 @@||fonts.gstatic.com^
 @@||content-storage-upload.googleapis.com^
 @@||gcs-blue-upload-us.l.googleusercontent.com^
+@@||firebaseremoteconfig.googleapis.com^
+@@||firebaseinstallations.googleapis.com^
+
+
+# Greenshot
+@@||getgreenshot.org^
 
 
 # HP
