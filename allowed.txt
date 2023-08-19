@@ -15,6 +15,14 @@
 # AirTable
 @@|airtable.com^
 @@||static.airtable.com^
+@@||geolocation.onetrust.com^               
+@@||api.amplitude.com^                      
+@@||cdn.cookielaw.org^                      
+@@||www.onetrust.com^                       
+@@|onetrust.com^                            
+@@||mobile-protect-api.securetheorem.com^   
+@@||458-jhq-131.mktoresp.com^               
+@@||explore.onetrust.com^                   
 
 
 # Amazon Alexa and IOT
@@ -655,19 +663,6 @@
 
 # ZScaler
 @@||sitereview.zscaler.com^
-
-
-################################################
-# Unknown App
-################################################
-@@||geolocation.onetrust.com^               ! Maybe Airtable
-@@||api.amplitude.com^                      ! Maybe Airtable
-@@||cdn.cookielaw.org^                      ! Maybe Airtable
-@@||www.onetrust.com^                       ! Maybe Airtable
-@@|onetrust.com^                            ! Maybe Airtable
-@@||mobile-protect-api.securetheorem.com^   ! Maybe Airtable
-@@||458-jhq-131.mktoresp.com^               ! Maybe Airtable
-@@||explore.onetrust.com^                   ! Maybe Airtable
 
 
 ################################################
