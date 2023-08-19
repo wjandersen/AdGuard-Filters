@@ -14,6 +14,7 @@
 
 # AirTable
 @@|airtable.com^
+@@||api2.airtable.com^
 @@||static.airtable.com^
 @@||geolocation.onetrust.com^
 @@||api.amplitude.com^
