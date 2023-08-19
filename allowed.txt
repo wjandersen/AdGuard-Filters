@@ -31,6 +31,7 @@
 @@||arl.assets.apl-alexa.com^
 @@||cdn.prod.adskit.juno.alexa.amazon.dev^
 @@||na.api.amazonvideo.com^
+@@||device-messaging-na.amazon.com^
 
 
 # Amazon Web Services
@@ -147,6 +148,7 @@
 @@||configuration.apple.com^
 @@||notes-analytics-events.apple.com^
 @@||pancake.apple.com^
+@@||pr-pod2-smp-device.apple.com^
 
 
 # ARP Connection
@@ -517,6 +519,12 @@
 @@||cooper.logs.roku.com^
 @@||madison.logs.roku.com^
 @@||tis.cti.roku.com^
+@@||scribe.logs.roku.com^
+@@||lat-services.api.data.roku.com^
+@@||customer-feedbacks.web.roku.com^
+@@||api.roku.com^
+@@||amarillo.sw.roku.com^
+@@||amarillo.sb.roku.com^
 
 
 # Rudderlabs
