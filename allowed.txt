@@ -15,14 +15,14 @@
 # AirTable
 @@|airtable.com^
 @@||static.airtable.com^
-@@||geolocation.onetrust.com^               
-@@||api.amplitude.com^                      
-@@||cdn.cookielaw.org^                      
-@@||www.onetrust.com^                       
-@@|onetrust.com^                            
-@@||mobile-protect-api.securetheorem.com^   
-@@||458-jhq-131.mktoresp.com^               
-@@||explore.onetrust.com^                   
+@@||geolocation.onetrust.com^
+@@||api.amplitude.com^
+@@||cdn.cookielaw.org^
+@@||www.onetrust.com^
+@@|onetrust.com^
+@@||mobile-protect-api.securetheorem.com^
+@@||458-jhq-131.mktoresp.com^
+@@||explore.onetrust.com^
 
 
 # Amazon Alexa and IOT
@@ -167,6 +167,7 @@
 @@||ls.apple.com.edgesuite.net^
 @@||cstat.cdn-apple.com^
 @@||cl4.apple.com^
+@@||ls.apple.com.edgekey.net^
 
 
 # ARP Connection
@@ -467,6 +468,7 @@
 @@||m.hotmail.com^
 @@||outlook-g.trafficmanager.net^
 @@||resources.office.net^
+@@||skydrivesync.policies.live.net^
 
 
 # Mixpanel
@@ -663,6 +665,22 @@
 
 # ZScaler
 @@||sitereview.zscaler.com^
+
+
+
+
+################################################
+# Unknown Software Driven
+################################################
+@@||cc.cdn.civiccomputing.com^
+@@||embed-cloudfront.wistia.com^
+@@||embed-ssl.wistia.com^
+@@||amplitude.com^
+@@||cdn.sanity.io^
+@@||vitals.vercel-insights.com^
+@@||fast.wistia.com^
+@@||fonts.cdnfonts.com^
+@@||ocsp.comodoca.com^
 
 
 ################################################
