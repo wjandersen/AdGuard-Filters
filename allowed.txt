@@ -505,7 +505,7 @@
 
 
 # RealVNC
-@@||hb-b.services.vnc.com^
+@@||services.vnc.com^
 
 
 # Roku
