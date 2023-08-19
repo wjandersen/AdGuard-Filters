@@ -7,6 +7,11 @@
 # Software or Device Driven
 ################################################
 
+# AirTable
+@@||geolocation.onetrust.com^
+@@|airtable.com^
+@@||api.amplitude.com^
+
 
 # Amazon Alexa and IOT
 @@||api.amazonalexa.com^
@@ -591,6 +596,11 @@
 @@||time-a.nist.gov^
 @@||2.android.pool.ntp.org^
 @@||pool.ntp.org^
+
+
+# Twitter
+@@||s.twitter.com^
+@@||analytics.twitter.com^
 
 
 # vcmdiawe
