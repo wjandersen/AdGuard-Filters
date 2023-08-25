@@ -29,6 +29,7 @@
 # Amazon Alexa and IOT
 @@||api.amazonalexa.com^
 @@||mmechocaptiveportal.com^
+@@||firetvcaptiveportal.com^
 @@||avs-alexa-14-na.amazon.com^
 @@||unagi-na.amazon.com^
 @@||msh.amazon.com^
@@ -44,6 +45,7 @@
 @@||cdn.prod.adskit.juno.alexa.amazon.dev^
 @@||na.api.amazonvideo.com^
 @@||device-messaging-na.amazon.com^
+@@||crt.r2m02.amazontrust.com^
 
 
 # Amazon Web Services
@@ -168,6 +170,11 @@
 @@||cl4.apple.com^
 @@||ls.apple.com.edgekey.net^
 @@||stocks-data-service.apple.com^
+@@||help.apple.com^
+@@||cds.apple.com^
+@@||officecdnmac.microsoft.com^
+@@||tv.apple.com^
+@@||itunes.apple.com.edgekey.net^
 
 
 # ARP Connection
@@ -346,6 +353,7 @@
 @@||gcs-blue-upload-us.l.googleusercontent.com^
 @@||firebaseremoteconfig.googleapis.com^
 @@||firebaseinstallations.googleapis.com^
+@@||www.gstatic.com^
 
 
 # Greenshot
@@ -356,6 +364,9 @@
 @@||chat.hpeprint.com^
 @@||www2.hp.com^
 
+
+Infinite Campus
+@@||infinitecampus.org^
 
 # Instagram
 @@||scontent-ord5-1.cdninstagram.com^
@@ -467,6 +478,11 @@
 @@||outlook-g.trafficmanager.net^
 @@||resources.office.net^
 @@||skydrivesync.policies.live.net^
+@@||update.microsoft.com^
+@@||support.content.office.net^
+@@||odc.officeapps.live.com^
+@@||login.mso.msidentity.com^
+@@||www.microsoft.com-c-3.edgekey.net^
 
 
 # Mixpanel
@@ -687,3 +703,4 @@
 @@||cdn-client.medium.com^
 @@||glyph.medium.com^
 @@|medium.com^
+@@||cdn-teams-slug.flaticon.com^
