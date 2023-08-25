@@ -16,8 +16,13 @@
 @@||prod.service.minerva.devices.a2z.com^
 
 
+# Amazon Web Services
+@@||d3p8zr0ffa9t17.cloudfront.net^
+
+
 # Apple
 @@/imap.mail.me.com/
+@@||se2.itunes.apple.com^
 
 
 # ARP Connection
@@ -52,6 +57,10 @@
 @@|box.com^
 @@||api.box.com^
 @@||client-log.box.com^
+
+
+# CDN
+@@||akamai.net^
 
 
 # Certificate Authority
@@ -112,6 +121,11 @@
 @@||loveboxlove.com^
 
 
+# Microsoft
+@@||dsm-efz.ms-acdc.office.com^
+
+
+
 # Netflix
 @@||nrdp.prod.cloud.netflix.com^
 @@||preapp.prod.partner.netflix.net^
@@ -142,6 +156,7 @@
 @@||pool.ntp.org^
 @@||time.windows.com^
 @@||time.apple.com^
+@@||time.g.aaplimg.com^
 
 
 # Western Digital  
