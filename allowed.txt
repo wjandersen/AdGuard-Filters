@@ -6,6 +6,10 @@
 #
 ###############################################
 
+# Apple
+@@/imap.mail.me.com/
+
+
 # Asus
 @@||nw-dlcdnet.asus.com^
 @@||www.asusrouter.com^
