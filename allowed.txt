@@ -5,3 +5,52 @@
 # https://github.com/wjandersen/AdGuard-Filter
 #
 ###############################################
+
+# Bitwarden
+@@||bitwarden.com^
+@@||bitwarden.net^
+
+
+# Blink Cameras
+@@||blink^
+@@||immedia-semi.com^
+
+
+# Lovebox
+@@||loveboxlove.com^
+
+
+# Sonos
+@@||cf.ws.sonos.com^
+@@||update-firmware.sonos.com^
+@@||update.sonos.com^
+@@||service-catalog.ws.sonos.com^
+@@||update-timezone.sonos.com^
+
+
+# Synology
+@@||finds.synology.com^
+@@||direct.quickconnect.to^
+@@||usc.quickconnect.to^
+@@||global.sns.cs.quickconnect.to^
+@@||sns.synology.com^
+@@||global.quickconnect.to^
+
+
+# Western Digital  
+@@||prod-proxy.wdckeystone.com^
+
+
+# Wyze Cameras and Devices
+@@||wyze^
+@@||kinesisvideo^
+@@||wyzecam.com^
+@@||us-west-2.amazonaws.com^
+@@||a.momentohq.com^
+@@||cdn.shopify.com^
+@@||clock.fmt.he.net^
+@@||us-west-2.elb.amazonaws.com^
+@@||iotcplatform.com^
+@@||wyze.dataplane.rudderstack.com^
+@@||api.rudderlabs.com^
+@@||hms-beta.api.wyze.com^
