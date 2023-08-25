@@ -129,6 +129,7 @@
 @@||mailws.icloud.com.akadns.net^
 @@||ckdevice.icloud.com^
 @@||pushws.icloud.com^
+@@||calendars.icloud.com^
 @@||calendarws.icloud.com^
 @@||remindersws.icloud.com^
 @@||setup.icloud.com^
