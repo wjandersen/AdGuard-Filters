@@ -110,6 +110,7 @@
 
 # R
 ||logs.roku.com^
+||display.ravm.tv^
 
 # S
 ||sc-static.net^
