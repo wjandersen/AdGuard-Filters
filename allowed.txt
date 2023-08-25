@@ -606,6 +606,7 @@ Infinite Campus
 @@||edge-web-gue1.dual-gslb.spotify.com^
 @@||www.spotify.com^
 @@||apresolve.spotify.com^
+@@||clienttoken.spotify.com^
 
 
 # Synology
