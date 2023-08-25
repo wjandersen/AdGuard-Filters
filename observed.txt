@@ -62,7 +62,6 @@
 # Apple
 @@/contacts.icloud.com/
 @@/content.icloud.com/
-@@/imap.mail.me.com/
 @@/escrowproxy.icloud.com/
 @@/caldav.icloud.com/
 @@/fmip.icloud.com/
@@ -247,27 +246,6 @@
 @@||chat-e2ee.c10r.facebook.com^
 
 
-# Facebook Oculus
-@@||graph.oculus.com^
-@@||www.oculus.com^
-@@||meta.graph.meta.com^
-@@||graph.facebook-hardware.com^
-@@||gateway.facebook.com^
-@@||ns.photonengine.io^
-@@||api.gameanalytics.com^
-@@||global.gunraidersapi.com^
-@@||scontent.oculuscdn.com^
-@@||oculus.com^
-@@||superflyvrgame.com^
-
-
-# Fitbit
-@@||fsc.fitbit.com^
-@@||iphone-cdn-api.fitbit.com^
-@@||iphone-cdn-client.fitbit.com.cdn.cloudflare.net^
-@@||iphone-cdn-client.fitbit.com^
-
-
 # GoodNotes
 @@||api.goodnotescloud.com^
 @@||auth.goodnotescloud.com^
@@ -341,14 +319,6 @@ Infinite Campus
 
 # Local
 @@|local^
-
-
-# Logitech
-@@||datapipeline.prod.logitech.io^
-@@||flow.logitech.io^
-@@||datapipeline.logitech.io^
-@@||updates.logitech.com^
-@@||updates.optionsplus.logitechg.com^
 
 
 # Loseit

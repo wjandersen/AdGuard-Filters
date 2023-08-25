@@ -49,12 +49,40 @@
 @@||usertrust.com^
 
 
+# Facebook Oculus
+@@||graph.oculus.com^
+@@||www.oculus.com^
+@@||meta.graph.meta.com^
+@@||graph.facebook-hardware.com^
+@@||gateway.facebook.com^
+@@||ns.photonengine.io^
+@@||api.gameanalytics.com^
+@@||global.gunraidersapi.com^
+@@||scontent.oculuscdn.com^
+@@||oculus.com^
+@@||superflyvrgame.com^
+
+
+# Fitbit
+@@||fsc.fitbit.com^
+@@||iphone-cdn-api.fitbit.com^
+@@||iphone-cdn-client.fitbit.com.cdn.cloudflare.net^
+@@||iphone-cdn-client.fitbit.com^
+
+
 # GitHub
 @@||github.com^
 @@||github.io^
 @@||avatars.githubusercontent.com^
 @@||github.githubassets.com^
 @@||desktop.githubusercontent.com^
+
+
+# Logitech
+@@||datapipeline.prod.logitech.io^
+@@||datapipeline.logitech.io^
+@@||updates.logitech.com^
+@@||updates.optionsplus.logitechg.com^
 
 
 # Lovebox
@@ -83,6 +111,7 @@
 @@||2.android.pool.ntp.org^
 @@||pool.ntp.org^
 @@||time.windows.com^
+@@||time.apple.com^
 
 
 # Western Digital  
