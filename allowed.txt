@@ -607,6 +607,7 @@ Infinite Campus
 @@||www.spotify.com^
 @@||apresolve.spotify.com^
 @@||clienttoken.spotify.com^
+@@||encore.scdn.co^
 
 
 # Synology
@@ -672,28 +673,6 @@ Infinite Campus
 @@||sitereview.zscaler.com^
 @@||sentry.io^
 @@||cdn.quantummetric.com^
-
-
-################################################
-# Known Advertising or Tracking
-################################################
-@@||cdn.branch.io^
-@@||datadoghq.com^
-@@||stats.g.doubleclick.net^
-@@||www-alv.google-analytics.com^
-@@||www.google-analytics.com^
-@@||app-measurement.com^
-@@||https://app-measurement.com/sdk-exp^
-@@||col.eum-appdynamics.com^
-@@||sdk.iad-01.braze.com^
-@@||sdk.iad-03.braze.com^
-@@||lib-us-2.brilliantcollector.com^
-@@||securepubads.g.doubleclick.net^
-@@||ad.doubleclick.net^
-@@||www.googleadservices.com^
-@@||pagead2.googlesyndication.com^
-@@||ade.googlesyndication.com^
-@@||tpc.googlesyndication.com^
 
 
 ################################################################################################
