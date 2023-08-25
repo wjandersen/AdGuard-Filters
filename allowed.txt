@@ -78,6 +78,11 @@
 @@||desktop.githubusercontent.com^
 
 
+# HP Printer
+@@||chat.hpeprint.com^
+@@||www2.hp.com^
+
+
 # Logitech
 @@||datapipeline.prod.logitech.io^
 @@||datapipeline.logitech.io^

@@ -293,11 +293,6 @@
 @@||getgreenshot.org^
 
 
-# HP
-@@||chat.hpeprint.com^
-@@||www2.hp.com^
-
-
 Infinite Campus
 @@||infinitecampus.org^
 
