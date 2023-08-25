@@ -1,10 +1,11 @@
 ###############################################
 #
-# AdGuard Block List by wjandersen
+# AdGuard Block List
 #
 # https://github.com/wjandersen/AdGuard-Filter
 #
 ###############################################
+
 # A
 ||adobedtm.com^
 ||adjust.com^
@@ -17,6 +18,7 @@
 ||appbaqend.com^
 ||appsflyer.com^
 ||apptentive.com^
+
 # B
 ||bidmachine.io^
 ||blueduckredapple.com^
@@ -24,6 +26,7 @@
 ||bronze.systems^
 ||bugsnag.com^
 ||buysellads.com^
+
 # C
 ||c.apple.com^
 ||cedexis.com^
@@ -33,6 +36,7 @@
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||content-signature-2.cdn.mozilla.net^
+
 # D
 ||data.flurry.com^
 ||datadoghq.com^
@@ -41,38 +45,46 @@
 ||device-metrics-us.amazon.com^
 ||doubleclick.net^
 ||dwin1.com^
+
 # E
 ||everestop.io^
 ||ezoic.com^
 ||ezoic.net^
 ||ezoicstatus.com^
+
 # F
 ||feedproxy.ghs.google.com^
 ||fing.com^
 ||flow.logitech.io^
 ||flurry.com^
+
 # G
 ||google-analytics.com^
 ||googleadservices.com^
 ||googlesyndication.com^
+
 # H
 ||hs-analytics.net^
 ||hs-scripts.com^
 ||hubapi.com^
 ||hubspot.com^
+
 # I
 ||iadsdk.apple.com^
 ||incoming.telemetry.mozilla.org^
 ||iterable.com^
 ||ipshu.com^
+
 # J
 ||jrustonapps.com^
 ||jrustonapps.net^
+
 # K
 # L
 ||liftoff.io^
 ||liftoff-creatives.io^
 ||logs.roku.com^
+
 # M
 ||metrics.icloud.com^
 ||mixpanel.com^
@@ -80,17 +92,23 @@
 ||modulate.ai^
 ||myphonesunlimited.com^
 ||location.services.mozilla.com^
+
 # N
+
 # O
 ||omtrdc.net^
 ||onetrust.io^
 ||optimizely.com^
+
 # P
 ||piano.io^
 ||pki-goog.l.google.com^
 ||pndsn.com^
+
 # Q
+
 # R
+
 # S
 ||sc-static.net^
 ||sendgrid.net^
@@ -102,19 +120,26 @@
 ||skimresources.com^
 ||smile.io^
 ||split.io^
+
 # T
 ||amcs-tachyon.com^
 ||tiktok.com^
 ||tinypass.com^
+
 # U
 ||urbanairship.com^
+
 # V
 ||vungle.com^
+
 # W
 ||wishpond.com^
 ||wohand.com^
+
 # X
+
 # Y
+
 # Z
 
 

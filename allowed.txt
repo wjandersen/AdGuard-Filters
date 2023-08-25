@@ -1,6 +1,6 @@
 ###############################################
 #
-# AdGuard Allowed List by wjandersen
+# AdGuard Allowed List
 #
 # https://github.com/wjandersen/AdGuard-Filter
 #
