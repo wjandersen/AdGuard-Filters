@@ -11,6 +11,9 @@
 @@||mmechocaptiveportal.com^
 @@||firetvcaptiveportal.com^
 @@||avs-alexa-14-na.amazon.com^
+@@||web.diagnostic.networking.aws.dev^
+@@||msh.amazon.com^
+@@||prod.service.minerva.devices.a2z.com^
 
 
 # Apple
@@ -89,6 +92,10 @@
 @@||desktop.githubusercontent.com^
 
 
+# Google
+@@|www.google.com^
+
+
 # HP Printer
 @@||chat.hpeprint.com^
 @@||www2.hp.com^
@@ -103,6 +110,13 @@
 
 # Lovebox
 @@||loveboxlove.com^
+
+
+# Netflix
+@@||nrdp.prod.cloud.netflix.com^
+@@||preapp.prod.partner.netflix.net^
+@@||nrdp.prod.cloud.netflix.com^
+@@||nrdp-ipv6.prod.ftl.netflix.com^
 
 
 # Sonos

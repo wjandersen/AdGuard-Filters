@@ -12,12 +12,18 @@
 ||adrta.com^
 ||amazon-adsystem.com^
 ||advertising.amazon.dev^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
 ||amplitude.com^
 ||app-measurement.com^
 ||api.mixpanel.com^
 ||appbaqend.com^
 ||appsflyer.com^
 ||apptentive.com^
+||c.apple.com^
+||cf.iadsdk.apple.com^
+||iadsdk.apple.com^
+||amcs-tachyon.com^
 
 # B
 ||bidmachine.io^
@@ -28,21 +34,14 @@
 ||buysellads.com^
 
 # C
-||c.apple.com^
 ||cedexis.com^
 ||cedexis-radar.net^
-||cf.iadsdk.apple.com^
 ||chimpstatic.com^
 ||crashlytics.com^
-||crashlyticsreports-pa.googleapis.com^
-||content-signature-2.cdn.mozilla.net^
 
 # D
-||data.flurry.com^
 ||datadoghq.com^
 ||demdex.net^
-||device-metrics-us-2.amazon.com^
-||device-metrics-us.amazon.com^
 ||doubleclick.net^
 ||dwin1.com^
 
@@ -53,15 +52,16 @@
 ||ezoicstatus.com^
 
 # F
-||feedproxy.ghs.google.com^
 ||fing.com^
-||flow.logitech.io^
 ||flurry.com^
 
 # G
 ||google-analytics.com^
 ||googleadservices.com^
 ||googlesyndication.com^
+||crashlyticsreports-pa.googleapis.com^
+||feedproxy.ghs.google.com^
+||pki-goog.l.google.com^
 
 # H
 ||hs-analytics.net^
@@ -70,8 +70,7 @@
 ||hubspot.com^
 
 # I
-||iadsdk.apple.com^
-||incoming.telemetry.mozilla.org^
+||metrics.icloud.com^
 ||iterable.com^
 ||ipshu.com^
 
@@ -80,18 +79,21 @@
 ||jrustonapps.net^
 
 # K
+
 # L
 ||liftoff.io^
 ||liftoff-creatives.io^
-||logs.roku.com^
+||flow.logitech.io^
 
 # M
-||metrics.icloud.com^
 ||mixpanel.com^
 ||mobilefuse.com^
 ||modulate.ai^
 ||myphonesunlimited.com^
 ||location.services.mozilla.com^
+||content-signature-2.cdn.mozilla.net^
+||incoming.telemetry.mozilla.org^
+||settings-win.data.microsoft.com^
 
 # N
 
@@ -102,19 +104,18 @@
 
 # P
 ||piano.io^
-||pki-goog.l.google.com^
 ||pndsn.com^
 
 # Q
 
 # R
+||logs.roku.com^
 
 # S
 ||sc-static.net^
 ||sendgrid.net^
 ||sentry.dev^
 ||sentry.io^
-||settings-win.data.microsoft.com^
 ||shareasale.com^
 ||singular.net^
 ||skimresources.com^
@@ -122,7 +123,6 @@
 ||split.io^
 
 # T
-||amcs-tachyon.com^
 ||tiktok.com^
 ||tinypass.com^
 
