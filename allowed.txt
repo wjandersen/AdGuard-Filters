@@ -23,6 +23,8 @@
 # Apple
 @@/imap.mail.me.com/
 @@||se2.itunes.apple.com^
+@@||get-bx.g.aaplimg.com^
+@@||gsp-ssl.ls.apple.com^
 
 
 # ARP Connection
@@ -123,7 +125,7 @@
 
 # Microsoft
 @@||dsm-efz.ms-acdc.office.com^
-
+@@||outlook.office365.com^
 
 
 # Netflix
