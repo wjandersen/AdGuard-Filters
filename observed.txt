@@ -172,10 +172,6 @@
 @@||itunes.apple.com.edgekey.net^
 
 
-# ARP Connection
-@@||arpa^
-
-
 # Banking
 @@||chase.com^
 @@||capitalone.com^

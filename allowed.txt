@@ -17,6 +17,10 @@
 @@/imap.mail.me.com/
 
 
+# ARP Connection
+@@||arpa^
+
+
 # Asus
 @@||nw-dlcdnet.asus.com^
 @@||www.asusrouter.com^
