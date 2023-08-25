@@ -27,10 +27,6 @@
 
 
 # Amazon Alexa and IOT
-@@||api.amazonalexa.com^
-@@||mmechocaptiveportal.com^
-@@||firetvcaptiveportal.com^
-@@||avs-alexa-14-na.amazon.com^
 @@||unagi-na.amazon.com^
 @@||msh.amazon.com^
 @@||api.amazon.com^
@@ -39,7 +35,6 @@
 @@||device-metrics-us.amazon.com^
 @@||device-metrics-us-2.amazon.com^
 @@||images-na.ssl-images-amazon.com^
-@@||iretvcaptiveportal.com^
 @@||turntable.sonic.advertising.amazon.dev^
 @@||arl.assets.apl-alexa.com^
 @@||cdn.prod.adskit.juno.alexa.amazon.dev^

@@ -6,6 +6,13 @@
 #
 ###############################################
 
+# Amazon Alexa/Echo
+@@||api.amazonalexa.com^
+@@||mmechocaptiveportal.com^
+@@||firetvcaptiveportal.com^
+@@||avs-alexa-14-na.amazon.com^
+
+
 # Apple
 @@/imap.mail.me.com/
 
