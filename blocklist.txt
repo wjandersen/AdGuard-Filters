@@ -1,6 +1,8 @@
 ###############################################
 #
-# AdGuard Blacklist by wjandersen
+# AdGuard Block List by wjandersen
+#
+# https://github.com/wjandersen/AdGuard-Filter
 #
 ###############################################
 # A
