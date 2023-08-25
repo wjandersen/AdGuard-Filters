@@ -182,17 +182,6 @@
 @@||arpa^
 
 
-# Asus
-@@||nw-dlcdnet.asus.com^
-@@||www.asusrouter.com^
-
-
-# Avira Antivirus
-@@||avira-update.com^
-@@||avira.com^
-@@||prod.update-bridge.avira.net^
-
-
 # Banking
 @@||chase.com^
 @@||capitalone.com^
@@ -214,15 +203,6 @@
 @@||us.version.battle.net^
 
 
-# Box
-@@||app.box.com^
-@@||www.box.com^
-@@||notes.services.box.com^
-@@|box.com^
-@@||api.box.com^
-@@||client-log.box.com^
-
-
 # CDN 
 @@||akamaiedge.net^
 @@||fastly.net^
@@ -237,15 +217,6 @@
 @@||cloudflare.com^
 @@||unpkg.com^
 @@||cdn.optimizely.com^
-
-
-# Certificate Authority
-@@||digicert.com^
-@@||lencr.org^
-@@||globalsign.net^
-@@||globalsign.com^
-@@||sectigo.com^
-@@||usertrust.com^
 
 
 # Crashlytics
@@ -295,14 +266,6 @@
 @@||iphone-cdn-api.fitbit.com^
 @@||iphone-cdn-client.fitbit.com.cdn.cloudflare.net^
 @@||iphone-cdn-client.fitbit.com^
-
-
-# GitHub
-@@||github.com^
-@@||github.io^
-@@||avatars.githubusercontent.com^
-@@||github.githubassets.com^
-@@||desktop.githubusercontent.com^
 
 
 # GoodNotes
@@ -587,13 +550,6 @@ Infinite Campus
 @@||apresolve.spotify.com^
 @@||clienttoken.spotify.com^
 @@||encore.scdn.co^
-
-
-# Time Management
-@@||time-a.nist.gov^
-@@||2.android.pool.ntp.org^
-@@||pool.ntp.org^
-@@||time.windows.com^
 
 
 # Twitter

@@ -6,6 +6,17 @@
 #
 ###############################################
 
+# Asus
+@@||nw-dlcdnet.asus.com^
+@@||www.asusrouter.com^
+
+
+# Avira Antivirus
+@@||avira-update.com^
+@@||avira.com^
+@@||prod.update-bridge.avira.net^
+
+
 # Bitwarden
 @@||bitwarden.com^
 @@||bitwarden.net^
@@ -14,6 +25,32 @@
 # Blink Cameras
 @@||blink^
 @@||immedia-semi.com^
+
+
+# Box
+@@||app.box.com^
+@@||www.box.com^
+@@||notes.services.box.com^
+@@|box.com^
+@@||api.box.com^
+@@||client-log.box.com^
+
+
+# Certificate Authority
+@@||digicert.com^
+@@||lencr.org^
+@@||globalsign.net^
+@@||globalsign.com^
+@@||sectigo.com^
+@@||usertrust.com^
+
+
+# GitHub
+@@||github.com^
+@@||github.io^
+@@||avatars.githubusercontent.com^
+@@||github.githubassets.com^
+@@||desktop.githubusercontent.com^
 
 
 # Lovebox
@@ -35,6 +72,13 @@
 @@||global.sns.cs.quickconnect.to^
 @@||sns.synology.com^
 @@||global.quickconnect.to^
+
+
+# Time Management
+@@||time-a.nist.gov^
+@@||2.android.pool.ntp.org^
+@@||pool.ntp.org^
+@@||time.windows.com^
 
 
 # Western Digital  
