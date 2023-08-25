@@ -1,8 +1,12 @@
 # AdGuard Filter
 
-At this time you will find this filter to be a little light. This is because this
-filter is currently talored more for a mobile device and not the AdGuard Home. The
-bigger lists out there cause issues with the mobile client and we are trying to find
-a happy medium.
+I am not content with just blocking traffic but also wanting to classify what it normally allowed. So here you will see three lists.
+- Blocked
+    - URLs that need blocking based on my traffic
+- Allowed
+    - URLs that need allowed based on my traffic
+- Observed
+    - URLs that have been noticed but haven't have a been assigned to another list yet.
 
-If you are looking for the AdGuard Home then I would suggest the "Everything" list at https://blocklist.site/
+
+If you are looking for an agressive list for AdGuard Home, then I would suggest the "Everything" list at https://blocklist.site/
