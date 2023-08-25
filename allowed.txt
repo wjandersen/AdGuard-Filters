@@ -311,6 +311,7 @@
 @@||github.io^
 @@||avatars.githubusercontent.com^
 @@||github.githubassets.com^
+@@||desktop.githubusercontent.com^
 
 
 # GoodNotes
