@@ -1,4 +1,4 @@
-# AdGuard Filter
+# Ad Blocking Filter
 
 I am not content with just blocking traffic but also wanting to classify what it normally allowed. So here you will see three lists.
 - Blocked
