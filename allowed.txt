@@ -110,7 +110,7 @@
 
 
 # HP Printer
-@@||chat.hpeprint.com^
+@@||hpeprint.com^
 @@||www2.hp.com^
 
 
