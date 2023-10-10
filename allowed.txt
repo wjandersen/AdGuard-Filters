@@ -10,6 +10,7 @@
 @@||api.amazonalexa.com^
 @@||mmechocaptiveportal.com^
 @@||firetvcaptiveportal.com^
+@@||fireoscaptiveportal.com^
 @@||avs-alexa-14-na.amazon.com^
 @@||web.diagnostic.networking.aws.dev^
 @@||msh.amazon.com^
@@ -74,6 +75,10 @@
 @@||globalsign.com^
 @@||sectigo.com^
 @@||usertrust.com^
+
+
+# DakBoard
+@@||dakboard.com^
 
 
 # Facebook Oculus
